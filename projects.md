@@ -38,7 +38,7 @@ Wpisujemy według schematu:
 1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
 ```
 
-**Uwaga:** 
+**Uwaga:**
 
 * W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
 * Zespoły, których aplikacje nie działały/brakowało linka po wdrożeniu aplikacji proszę o utworzenie nowego issue.
@@ -47,10 +47,10 @@ Wpisujemy według schematu:
 
 1. [ADHD](https://github.com/romety2/asi_egz).  [Wypok](http://spalonytoster.me/)
 1. [Kudłaci](https://github.com/mkrakowiak/Rails_nowy_egzamin2). [Blog](blogkudlatych.herokuapp.com)
-1. [MKR](https://github.com/rubyugprojekt/asi_egzamin). [Ranking seriali](https://projekt-ruby.herokuapp.com/) – znikające obrazki
+1. [MKR](https://github.com/rubyugprojekt/asi_egzamin). [Ranking seriali](https://projekt-ruby.herokuapp.com/)
 1. [DK](https://github.com/dkozlowski22/Projekt_egzamin_ASI).  [Katalog albumów muzycznych](https://stormy-thicket-30324.herokuapp.com/)
 1. [Mr Cook](https://github.com/damian11/egzaminASI). [AplikacjaKucharska](https://serene-retreat-91830.herokuapp.com/) – znikające obrazki
-1. [YBT](https://github.com/MajaD/MovieReview.git). [MovieReview](https://movie-review-majamaja.c9users.io/) 
+1. [YBT](https://github.com/MajaD/MovieReview.git). [MovieReview](https://movie-review-majamaja.c9users.io/)
 1. [SMMA](https://github.com/Strugacki/LecturerRatingAppRoR). [LecturerRating]() – brakujący link do wdrożonej aplikacji
 1. [DAMKA](https://github.com/kpalkowska/Flatmate-helper). [Flatmate-helper](https://flatmate-helper-app.herokuapp.com) – nie działały mapki
 1. [TeamEdward](https://github.com/okoniewskid/Rails). [Kreator Postaci](https://kreator-postaci.herokuapp.com/)
@@ -141,5 +141,5 @@ NOZO:
 
 <!--
 1. Wójcicka Zuzanna – niezaliczone laboratorium
-1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ASI). brakujący link do wdrożonej aplikacji 
+1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ASI). brakujący link do wdrożonej aplikacji
 -->
