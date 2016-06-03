@@ -134,7 +134,7 @@ NOZO:
 1. Hnatiuk Ostap
 1. [Matuszewski Jan](https://github.com/JMatuszewski/projekty-asi)
 1. [Olobry Konrad] (https://github.com/Kombi92/Songapp-ruby-)
-1. Popko Adrianna
+1. [Popko Adrianna](https://github.com/AdriannaPopko/asi-foodtracker)
 1. Sadowski Łukasz
 1. Socha Bartłomiej
 1. Wilamowski Paweł
