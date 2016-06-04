@@ -138,8 +138,5 @@ NOZO:
 1. Sadowski Łukasz
 1. Socha Bartłomiej
 1. Wilamowski Paweł
+1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ASI/tree/master/projekt1-asi)
 
-<!--
-1. Wójcicka Zuzanna – niezaliczone laboratorium
-1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ASI). brakujący link do wdrożonej aplikacji
--->
