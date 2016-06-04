@@ -132,6 +132,7 @@ NOZO:
 
 1. Formela Bartosz
 1. Hnatiuk Ostap
+1. [Hrycikowski Rafał] (https://github.com/kreteda/projekt-ruby)
 1. [Matuszewski Jan](https://github.com/JMatuszewski/projekty-asi)
 1. [Olobry Konrad] (https://github.com/Kombi92/Songapp-ruby-)
 1. [Popko Adrianna](https://github.com/AdriannaPopko/asi-foodtracker)
