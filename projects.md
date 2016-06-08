@@ -51,7 +51,7 @@ Wpisujemy według schematu:
 1. [DK](https://github.com/dkozlowski22/Projekt_egzamin_ASI).  [Katalog albumów muzycznych](https://stormy-thicket-30324.herokuapp.com/)
 1. [Mr Cook](https://github.com/damian11/egzaminASI). [AplikacjaKucharska](https://serene-retreat-91830.herokuapp.com/) – znikające obrazki
 1. [YBT](https://github.com/MajaD/MovieReview.git). [MovieReview](https://movie-review-majamaja.c9users.io/)
-1. [SMMA](https://github.com/Strugacki/LecturerRatingAppRoR). [LecturerRating]() – brakujący link do wdrożonej aplikacji
+1. [SMMA](https://github.com/Strugacki/LecturerRatingAppRoR). [LecturerRating](https://rating-app-gorsky.c9users.io/)
 1. [DAMKA](https://github.com/kpalkowska/Flatmate-helper). [Flatmate-helper](https://flatmate-helper-app.herokuapp.com) – nie działały mapki
 1. [TeamEdward](https://github.com/okoniewskid/Rails). [Kreator Postaci](https://kreator-postaci.herokuapp.com/)
 1. [AMM](https://github.com/adamzuk/rehearsal-room). [Sala prób muzycznych](http://rehearsal-room-prod.herokuapp.com/) – brak weryfikacji dat
