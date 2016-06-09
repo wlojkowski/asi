@@ -61,7 +61,7 @@ Wpisujemy według schematu:
 1. [SWP](https://github.com/psadowski/Projekt-Zespo-owy)
 1. [KSTCR](https://github.com/kszewczyk1/Projekt_Zaspolowy). [BLOG](https://project2-rails-tarnowski.c9users.io/)
 1. [4-ocy](https://github.com/Niedwiediew/ASI_egz_nowy). [TypowyBlog](http://sheltered-oasis-12834.herokuapp.com/)
-1. [Atleastwehavegirls!](https://github.com/AdriannaPopko/asi-egzaminn). [FoodTracker](https://foodtrackeregzamin.herokuapp.com/users/sign_in)
+1. [Atleastwehavegirls!](https://github.com/AdriannaPopko/asi-egzaminn) [FoodTracker](https://foodtrackeregzamin.herokuapp.com/users/sign_in)
 
 
 ## Projekty na zaliczenie
