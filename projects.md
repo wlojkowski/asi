@@ -141,6 +141,6 @@ NOZO:
 1. [Popko Adrianna](https://github.com/AdriannaPopko/asi-foodtracker)
 1. Sadowski Łukasz
 1. Socha Bartłomiej
-1. Wilamowski Paweł
+1. [Wilamowski Paweł](https://github.com/pwilamowski/asi-zaliczenie)
 1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ASI/tree/master/projekt1-asi)
 
