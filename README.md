@@ -37,6 +37,7 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 ### Podręczne linki
 
+1. [Git Tips](https://github.com/git-tips/tips) – most commonly used git tips and tricks
 1. Michael Hartl,
    [Ruby on Rails Tutorial](https://www.railstutorial.org/book) –
    learn web development with Rails
