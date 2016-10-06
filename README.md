@@ -2,7 +2,7 @@
 
 Terminy oddania projektów:
 
-| projekt    | MVC     | stacjonarne |
+| projekt    | MVC     |    deadline |
 |------------|---------|-------------|
 | zaliczenie | 3 × 1   |  9.11.2016  |
 | egzamin    | 3 × 3   | 16.01.2017  |
