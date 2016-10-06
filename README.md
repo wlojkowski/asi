@@ -4,10 +4,10 @@ Terminy oddania projektów:
 
 | projekt    | MVC     | stacjonarne |
 |------------|---------|-------------|
-| zaliczenie | 3 × 1   | 10.04.2016  |
-| egzamin    | 3 × 3   | 22.05.2016  |
+| zaliczenie | 3 × 1   |  9.11.2016  |
+| egzamin    | 3 × 3   | 16.01.2017  |
 
-Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.0**
+Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.1**
 i Ruby on Rails w wersji co najmniej **5.0.0**.
 
 
