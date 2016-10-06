@@ -42,7 +42,7 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 1. Michael Hartl,
    [Ruby on Rails Tutorial](https://www.railstutorial.org/book) –
    learn web development with Rails
-1. [Edge Rails Guides](http://edgeguides.rubyonrails.org/).update
+1. [Edge Rails Guides](http://edgeguides.rubyonrails.org/).
 1. [Edge Rails API](http://edgeapi.rubyonrails.org/)
 1. [Ruby style guide](https://github.com/bbatsov/ruby-style-guide):
   - [rubocop](https://github.com/bbatsov/rubocop) – a Ruby static code analyzer,
