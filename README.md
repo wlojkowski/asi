@@ -26,7 +26,7 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 ### Wykład
 
 1. Aplikacja CRUD:
-  - [My Gists](https://github.com/rails4/my_gists5.beta2)
+  - [My Gists](https://github.com/rails4/my_gists5)
 1. Rails API:
   - [API example](api.md)
 1. David Heinemeier Hansson.
