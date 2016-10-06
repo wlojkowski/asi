@@ -1,4 +1,4 @@
-## Technologie Aplikacji Internetowych, 2015/16
+## Architektura serwisów internetowych, 2016/17
 
 Terminy oddania projektów:
 
