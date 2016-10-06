@@ -4,7 +4,7 @@ Terminy oddania projektów:
 
 | projekt    | MVC     |    deadline |
 |------------|---------|-------------|
-| zaliczenie | 3 × 1   |  9.11.2016  |
+| zaliczenie | 3 × 1   | 09.11.2016  |
 | egzamin    | 3 × 3   | 16.01.2017  |
 
 Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.1**
@@ -25,14 +25,15 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 ### Wykład
 
-1. [My Gists](https://github.com/rails4/my_gists5.beta2)
-2. David Heinemeier Hansson.
+1. Aplikacja CRUD:
+  - [My Gists](https://github.com/rails4/my_gists5.beta2)
+1. Rails API:
+  - [API example](api.md)
+1. David Heinemeier Hansson.
    [Rails 5: Action Cable demo](https://www.youtube.com/watch?v=n0WUjGkDFS0):
   - [Action Cable Examples](https://github.com/rails/actioncable-examples)
   - Kyle Szives. [Action Cable and WebSockets: An in-Depth Tutorial](http://www.sitepoint.com/action-cable-and-websockets-an-in-depth-tutorial/);
     [an example project](https://github.com/kylesziv/action-cable-house-example)
-3. Rails API:
-  - [API example](api.md)
 
 
 ### Podręczne linki
