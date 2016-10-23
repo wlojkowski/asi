@@ -25,13 +25,17 @@ Projekt na zaliczenie musi zawierać następujące elementy:
 gem 'devise', :github => 'plataformatec/devise'
 ```
 
-1. Bachanek, Bartosz
+1. Bachanek, Bartosz 
+1. Bańkowski, Jacek
 1. Bartel, Krzysztof
-1. Blum, Bartosz
+1. Ciepliński, Dominik
 1. Dawidowski, Marcin
-1. Kleina, Mateusz
+1. Kleina, Mateusz 
 1. Klimaszewski, Karol
+1. Kozyra, Damian
+1. Marzec, Maciej
 1. Pek, Kamil
+1. Pienczyn, Dominika
 1. Podlawski, Adrian
 1. Sochaj, Bartosz
 1. Sołtys, Aleksandra
