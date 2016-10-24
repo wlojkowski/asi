@@ -37,7 +37,7 @@ gem 'devise', :github => 'plataformatec/devise'
 1. Pek, Kamil
 1. Pienczyn, Dominika
 1. Podlawski, Adrian
-1. Sochaj, Bartosz
+1. [Sochaj, Bartosz](https://github.com/bs-ug/RoR/tree/master/movies)
 1. Sołtys, Aleksandra
 
 
