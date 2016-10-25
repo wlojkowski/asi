@@ -29,7 +29,7 @@ gem 'devise', :github => 'plataformatec/devise'
 1. Bańkowski, Jacek
 1. Bartel, Krzysztof
 1. Ciepliński, Dominik
-1. Dawidowski, Marcin
+1. [Dawidowski, Marcin](https://github.com/mdawidowski/Projekt-ASI) -> [Heroku](https://warm-tor-21588.herokuapp.com/)
 1. Kleina, Mateusz 
 1. Klimaszewski, Karol
 1. Kozyra, Damian
