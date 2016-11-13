@@ -30,7 +30,7 @@ gem 'devise', :github => 'plataformatec/devise'
 1. [Bartel, Krzysztof](https://github.com/deer667/asi_kb)
 1. Ciepliński, Dominik
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Projekt-ASI) -> [Heroku](https://warm-tor-21588.herokuapp.com/)
-1. Kleina, Mateusz 
+1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty.herokuapp.com/)
 1. Klimaszewski, Karol
 1. Kozyra, Damian
 1. Marzec, Maciej
