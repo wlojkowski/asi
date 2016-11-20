@@ -40,7 +40,7 @@ gem 'devise', :github => 'plataformatec/devise'
 
 1. Bańkowski, Jacek
 1. Ciepliński, Dominik
-1. Klimaszewski, Karol
+1. [Klimaszewski, Karol](https://github.com/KKlimaszewski1/architektora_serwisow_internetowych_lab) -> [Heroku](https://fathomless-bastion-35868.herokuapp.com/)
 1. Pienczyn, Dominika
 
 
