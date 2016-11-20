@@ -38,7 +38,7 @@ gem 'devise', :github => 'plataformatec/devise'
 1. Pienczyn, Dominika
 1. [Podlawski, Adrian](https://github.com/kirin1994/RubyZal) -> [Heroku](https://adrianpodlawskirubby.herokuapp.com/)
 1. [Sochaj, Bartosz](https://github.com/bs-ug/RoR/tree/master/movies)
-1. Sołtys, Aleksandra
+1. [Sołtys, Aleksandra](https://github.com/saleksandra/appRubyDaily)
 
 
 ## Projekty zespołowe na egzamin
