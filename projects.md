@@ -26,19 +26,22 @@ gem 'devise', :github => 'plataformatec/devise'
 ```
 
 1. [Bachanek, Bartosz](https://github.com/bbachanek/app)
-1. Bańkowski, Jacek
 1. [Bartel, Krzysztof](https://github.com/deer667/asi_kb)
-1. Ciepliński, Dominik
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Projekt-ASI) -> [Heroku](https://serene-springs-39428.herokuapp.com/)
 1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty.herokuapp.com/)
-1. Klimaszewski, Karol
 1. Kozyra, Damian
 1. Marzec, Maciej
 1. [Pek, Kamil](https://github.com/kamilpek/asi-paliwko.git)
-1. Pienczyn, Dominika
 1. [Podlawski, Adrian](https://github.com/kirin1994/RubyZal) -> [Heroku](https://adrianpodlawskirubby.herokuapp.com/)
 1. [Sochaj, Bartosz](https://github.com/bs-ug/RoR/tree/master/movies)
 1. [Sołtys, Aleksandra](https://github.com/saleksandra/appRubyDaily)
+
+----
+
+1. Bańkowski, Jacek
+1. Ciepliński, Dominik
+1. Klimaszewski, Karol
+1. Pienczyn, Dominika
 
 
 ## Projekty zespołowe na egzamin
