@@ -26,7 +26,7 @@ gem 'devise', :github => 'plataformatec/devise'
 ```
 
 1. [Bachanek, Bartosz](https://github.com/bbachanek/app)
-1. [Bartel, Krzysztof](https://github.com/deer667/asi_kb)
+1. [Bartel, Krzysztof](https://github.com/deer667/asi_kb) -> [prosty blog](https://asi-kb-deeer666.c9users.io/)
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Projekt-ASI) -> [Heroku](https://serene-springs-39428.herokuapp.com/)
 1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty.herokuapp.com/)
 1. Kozyra, Damian
