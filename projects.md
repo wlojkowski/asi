@@ -26,7 +26,7 @@ gem 'devise', :github => 'plataformatec/devise'
 ```
 
 1. [Bachanek, Bartosz](https://github.com/bbachanek/app) -> [Heroku](https://quiet-forest-28132.herokuapp.com/)
-1. [Bartel, Krzysztof](https://github.com/deer667/asi_kb) -> [Prosty blog](https://asi-kb-deeer666.c9users.io/)
+1. [Bartel, Krzysztof](https://github.com/deer667/asi_kb) -> [Prosty blog](https://asi-kb-deeer666.c9users.io/) ->[Jeszcze raz blog na heroku](https://safe-forest-62774.herokuapp.com)
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Projekt-ASI) -> [Heroku](https://serene-springs-39428.herokuapp.com/)
 1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty.herokuapp.com/)
 1. [Klimaszewski, Karol](https://github.com/KKlimaszewski1/architektora_serwisow_internetowych_lab) -> [Heroku](https://fathomless-bastion-35868.herokuapp.com/)
