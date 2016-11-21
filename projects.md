@@ -24,6 +24,12 @@ Projekt na zaliczenie musi zawierać następujące elementy:
 ```ruby
 gem 'devise', :github => 'plataformatec/devise'
 ```
+1. Można tez zainstalować (i użyć) wersję _prerelease_ gemu:
+
+```sh
+gem install carrierwave --pre
+```
+
 
 1. [Bachanek, Bartosz](https://github.com/bbachanek/app) -> [Heroku](https://quiet-forest-28132.herokuapp.com/)
 1. [Bartel, Krzysztof](https://github.com/deer667/asi_kb) -> [Prosty blog](https://asi-kb-deeer666.c9users.io/) ->[Jeszcze raz blog na heroku](https://safe-forest-62774.herokuapp.com)
