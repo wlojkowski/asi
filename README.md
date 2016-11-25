@@ -27,6 +27,9 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 1. Aplikacja CRUD:
   - [My Gists](https://github.com/rails4/my_gists5)
+1. MVC w Rails:
+  - Viktoria Kotsurenko, [The Basics of MVC in Rails: Skinny Everything](https://www.sitepoint.com/the-basics-of-mvc-in-rails-skinny-everything/)
+  - [7 Design Patterns to Refactor MVC Components in ](https://www.sitepoint.com/7-design-patterns-to-refactor-mvc-components-in-rails/)
 1. Rails API:
   - [API example](api.md)
 1. David Heinemeier Hansson.
