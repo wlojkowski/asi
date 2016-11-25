@@ -36,7 +36,7 @@ gem install carrierwave --pre
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Projekt-ASI) -> [Heroku](https://serene-springs-39428.herokuapp.com/)
 1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty.herokuapp.com/)
 1. [Klimaszewski, Karol](https://github.com/KKlimaszewski1/architektora_serwisow_internetowych_lab) -> [Heroku](https://fathomless-bastion-35868.herokuapp.com/)
-1. Kozyra, Damian
+1. [Kozyra, Damian](https://github.com/dkozyra/wiki) -> [smallwikiapp](http://smallwikiapp.herokuapp.com)
 1. Marzec, Maciej
 1. [Pek, Kamil](https://github.com/kamilpek/asi-paliwko.git)
 1. [Podlawski, Adrian](https://github.com/kirin1994/RubyZal) -> [Heroku](https://adrianpodlawskirubby.herokuapp.com/)
