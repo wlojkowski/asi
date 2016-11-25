@@ -59,11 +59,6 @@ News:
 
 ### Apps
 
-1. Rob Guilfoyle.
-   Building Cross Model Search with Ember, Rails, and Elasticsearch:
-  - [Part I](http://blog.codeship.com/cross-model-search-with-ember-rails-and-elasticsearch/)
-  - [Part II](http://blog.codeship.com/building-cross-model-search-with-ember-rails-and-elasticsearch-part-2/)
-
 Meta:
 
 1. [Trailblazer](http://trailblazer.to) –
