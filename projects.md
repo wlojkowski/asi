@@ -31,23 +31,23 @@ gem install carrierwave --pre
 ```
 
 
-1. [Bachanek, Bartosz](https://github.com/bbachanek/app) -> [Heroku](https://quiet-forest-28132.herokuapp.com/)
+1. [Bachanek, Bartosz](https://github.com/bbachanek/app) -> [Heroku](https://quiet-forest-28132.herokuapp.com/) 27.11
 1. [Bartel, Krzysztof](https://github.com/deer667/asi_kb) -> [Prosty blog](https://asi-kb-deeer666.c9users.io/) ->[Jeszcze raz blog na heroku](https://safe-forest-62774.herokuapp.com)
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Projekt-ASI) -> [Heroku](https://serene-springs-39428.herokuapp.com/)
-1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty.herokuapp.com/)
+1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty.herokuapp.com/) 27.11
 1. [Klimaszewski, Karol](https://github.com/KKlimaszewski1/architektora_serwisow_internetowych_lab) -> [Heroku](https://fathomless-bastion-35868.herokuapp.com/)
 1. [Kozyra, Damian](https://github.com/dkozyra/wiki) -> [smallwikiapp](http://smallwikiapp.herokuapp.com)
-1. Marzec, Maciej
 1. [Pek, Kamil](https://github.com/kamilpek/asi-paliwko.git)
+1. [Pienczyn, Dominika](https://github.com/dpienczyn/appbooks) -> [AppBooks](https://appbooks.herokuapp.com/) 27.11
 1. [Podlawski, Adrian](https://github.com/kirin1994/RubyZal) -> [Heroku](https://adrianpodlawskirubby.herokuapp.com/)
 1. [Sochaj, Bartosz](https://github.com/bs-ug/RoR/tree/master/movies) -> [Some Movies](http://somemovies.herokuapp.com/)
-1. [Sołtys, Aleksandra](https://github.com/saleksandra/appRubyDaily) -> [Dziennik kalorii](https://appdaily.herokuapp.com)
+1. [Sołtys, Aleksandra](https://github.com/saleksandra/appRubyDaily) -> [Dziennik kalorii](https://appdaily.herokuapp.com) 27.11
 
 ----
 
 1. Bańkowski, Jacek
 1. Ciepliński, Dominik
-1. Pienczyn, Dominika
+1. Marzec, Maciej
 
 
 ## Projekty zespołowe na egzamin
