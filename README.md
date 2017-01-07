@@ -31,7 +31,8 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
   - Viktoria Kotsurenko, [The Basics of MVC in Rails: Skinny Everything](https://www.sitepoint.com/the-basics-of-mvc-in-rails-skinny-everything/)
   - Viktoria Kotsurenko, [7 Design Patterns to Refactor MVC Components in ](https://www.sitepoint.com/7-design-patterns-to-refactor-mvc-components-in-rails/)
 1. Rails API:
-  - [API example](api.md)
+  - [json:api](http://jsonapi.org) – a specification for building apis in JSON
+  - [json:api example](https://github.com/rails4/jsonapi_borrowers_5.0)
 1. David Heinemeier Hansson.
    [Rails 5: Action Cable demo](https://www.youtube.com/watch?v=n0WUjGkDFS0):
   - [Action Cable Examples](https://github.com/rails/actioncable-examples)
