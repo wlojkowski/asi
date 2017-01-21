@@ -62,8 +62,9 @@ Wpisujemy według schematu:
 ```
 1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
 ```
-1. [najlepsi](https://github.com/bs-ug/asi_kb)
 
+1. [Klimaszewski, Karol](https://github.com/KKlimaszewski1/architektora_serwisow_internetowych_lab). [Książka Kucharska](https://fathomless-bastion-35868.herokuapp.com/)
+1. [Najlepsi](https://github.com/bs-ug/asi_kb).
 1. [Awaria](https://github.com/kamilpek/ror-awaria). [Awaria](https://awaria.herokuapp.com/)
 
 **Uwaga:**
