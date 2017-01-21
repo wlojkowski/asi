@@ -48,6 +48,12 @@ gem install carrierwave --pre
 1. Bańkowski, Jacek
 1. Ciepliński, Dominik
 1. Marzec, Maciej
+1. [Pek, Kamil](https://github.com/kamilpek/asi-paliwko.git)
+1. Pienczyn, Dominika
+1. Podlawski, Adrian
+1. Sochaj, Bartosz
+1. Sołtys, Aleksandra
+
 
 
 ## Projekty zespołowe na egzamin
@@ -57,6 +63,8 @@ Wpisujemy według schematu:
 1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
 ```
 1. [najlepsi](https://github.com/bs-ug/asi_kb)
+
+1. [Awaria](https://github.com/kamilpek/ror-awaria). [Awaria](https://awaria.herokuapp.com/)
 
 **Uwaga:**
 
