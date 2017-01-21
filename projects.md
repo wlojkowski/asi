@@ -53,10 +53,10 @@ gem install carrierwave --pre
 ## Projekty zespołowe na egzamin
 
 Wpisujemy według schematu:
-
 ```
 1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
 ```
+1. [najlepsi](https://github.com/bs-ug/asi_kb)
 
 **Uwaga:**
 
