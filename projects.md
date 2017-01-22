@@ -51,9 +51,8 @@ gem install carrierwave --pre
 1. [Pek, Kamil](https://github.com/kamilpek/asi-paliwko.git)
 1. Pienczyn, Dominika
 1. Podlawski, Adrian
-1. Sochaj, Bartosz
-1. Sołtys, Aleksandra
-
+1. [Sochaj, Bartosz](https://github.com/bs-ug/RoR/tree/master/movies)
+1. [Sołtys, Aleksandra](https://github.com/saleksandra/appRubyDaily) -> [Dziennik kalorii](https://appdaily.herokuapp.com)
 
 
 ## Projekty zespołowe na egzamin
@@ -63,10 +62,12 @@ Wpisujemy według schematu:
 1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
 ```
 
+1. [Aleksandra Sołtys, Dominik Ciepliński, Bartosz Bachanek] (https://github.com/saleksandra/crmapp). [System CRM](http://155.133.47.208:3000/)
 1. [Klimaszewski, Karol](https://github.com/KKlimaszewski1/architektora_serwisow_internetowych_lab). [Książka Kucharska](https://fathomless-bastion-35868.herokuapp.com/)
 1. [Najlepsi](https://github.com/bs-ug/asi_kb).
 1. [Awaria](https://github.com/kamilpek/ror-awaria). [Awaria](https://awaria.herokuapp.com/)
 1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty-egzamin.herokuapp.com/)
+
 
 **Uwaga:**
 
