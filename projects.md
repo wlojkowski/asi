@@ -66,6 +66,7 @@ Wpisujemy według schematu:
 1. [Klimaszewski, Karol](https://github.com/KKlimaszewski1/architektora_serwisow_internetowych_lab). [Książka Kucharska](https://fathomless-bastion-35868.herokuapp.com/)
 1. [Najlepsi](https://github.com/bs-ug/asi_kb).
 1. [Awaria](https://github.com/kamilpek/ror-awaria). [Awaria](https://awaria.herokuapp.com/)
+1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty-egzamin.herokuapp.com/)
 
 **Uwaga:**
 
