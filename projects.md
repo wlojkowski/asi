@@ -68,6 +68,7 @@ Wpisujemy według schematu:
 1. [Awaria](https://github.com/kamilpek/ror-awaria). [Awaria](https://awaria.herokuapp.com/)
 1. [Kleina, Mateusz](https://github.com/moskal91/ti-ruby-zaliczenie) -> [Heroku](https://zaliczenie-kontakty-egzamin.herokuapp.com/)
 1. [Podlawski, Adrian](https://github.com/kirin1994/RubyZal) -> [Car Dealer](https://adrianpodlawskirubby.herokuapp.com/)
+1. [Damian Kozyra, Jacek Bańkowski](https://github.com/dkozyra/blog). [Blog na egzamin](https://blognaegzamin.herokuapp.com/)
 
 
 **Uwaga:**
