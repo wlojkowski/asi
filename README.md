@@ -60,9 +60,6 @@ News:
 
 * [The Ruby and Rails community linklog](http://www.rubyflow.com)
 
-
-### Apps
-
 Meta:
 
 1. [Trailblazer](http://trailblazer.to) –
