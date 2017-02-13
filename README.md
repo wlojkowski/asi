@@ -4,11 +4,21 @@ Terminy oddania projektów:
 
 | projekt    | MVC     |    deadline |
 |------------|---------|-------------|
-| zaliczenie | 3 × 1   | 19.11.2016  |
-| egzamin    | 3 × 3   | 16.01.2017  |
+| zaliczenie | 3 × 1   | 19.03.2017  |
+| egzamin    | 3 × 3   | 21.05.2017  |
 
-Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.1**
+Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.3**
 i Ruby on Rails w wersji co najmniej **5.0.0**.
+
+
+### Wykłady
+
+| Kiedy    | | |
+|------------|---------|-------------|
+| 14.02 | MVC, aplikacja My_gists, Heroku | |
+| 21.02 | Programowanie funkcyjne w Ruby | O. Szrajer |
+| 28.02 | Wdrażanie aplikacji RoR | S. Tuszyński |
+
 
 
 ### Zaliczenie i Egzamin
