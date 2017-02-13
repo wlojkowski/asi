@@ -13,11 +13,10 @@ i Ruby on Rails w wersji co najmniej **5.0.0**.
 
 ### Wykłady
 
-| Kiedy    | | |
-|------------|---------|-------------|
-| 14.02 | MVC, aplikacja My_gists, Heroku | |
-| 21.02 | Programowanie funkcyjne w Ruby | O. Szrajer |
-| 28.02 | Wdrażanie aplikacji RoR | S. Tuszyński |
+|------------|---------|
+| 14.02 | MVC, aplikacja My_gists, Heroku |
+| 21.02 | Programowanie funkcyjne w Ruby (Oskar Szrajer) |
+| 28.02 | Wdrażanie aplikacji RoR |
 
 
 
