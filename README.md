@@ -15,7 +15,7 @@ i Ruby on Rails w wersji co najmniej **5.0.0**.
 
 |    |    |
 |----|----|
-| 14.02 | Info o MVC, podstawy RoR, aplikacja My_gists, Heroku |
+| 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku |
 | 21.02 | Programowanie funkcyjne w Ruby (Oskar Szrajer) |
 | 28.02 | Wdrażanie aplikacji RoR |
 
