@@ -1,6 +1,6 @@
 ## Architektura serwisów internetowych, 2016/17
 
-Terminy oddania projektów:
+Terminy rozliczenia się z projektów:
 
 | projekt    | MVC     |    deadline |
 |------------|---------|-------------|
@@ -9,18 +9,6 @@ Terminy oddania projektów:
 
 Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.3**
 i Ruby on Rails w wersji co najmniej **5.0.0**.
-
-
-### Wykłady
-
-|    |    |
-|----|----|
-| 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku |
-| 21.02 | Programowanie funkcyjne w Ruby (Oskar Szrajer) |
-| 28.02 | Wdrażanie aplikacji RoR |
-
-
-### Zaliczenie i Egzamin
 
 > A good demo application is disproportionately valuable in development.<br>
 > — [Storytelling](http://en.wikipedia.org/wiki/Storytelling)
@@ -32,7 +20,13 @@ Repozytorium z projektami należy przygotować wzorując się na
 tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 
-### Wykład
+### Wykłady
+
+|    |    |
+|----|----|
+| 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku |
+| 21.02 | Programowanie funkcyjne w Ruby (Oskar Szrajer) |
+| 28.02 | Wdrażanie aplikacji RoR |
 
 1. Aplikacja CRUD:
   - [repozytorium](https://github.com/rails4/my_gists_5.0), [heroku](https://gists5.herokuapp.com)
