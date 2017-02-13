@@ -1,12 +1,5 @@
 # Projekty, 2016/17
 
-Link do repozytorium z opisami projektów i linkami do nich należy wpisać
-w pliku [projects.md](projects.md) w jednym wierszu według schematu:
-
-```
-1. [Nazwisko, Imię](link do repo z rozwiązaniami zadań na GitHub, Bitbucket lub GitLab)
-```
-
 Projekt na zaliczenie musi zawierać następujące elementy:
 
 1. Co najmniej jeden model. W bazie umieścić sporo danych
@@ -27,7 +20,7 @@ gem 'devise', :github => 'plataformatec/devise'
 1. Można tez zainstalować (i użyć) wersję _prerelease_ gemu:
 
 ```sh
-gem install carrierwave --pre
+gem install carrierwave --pre # jest już wersja 1.0.0
 ```
 
 ## Projekty indywidualne (zaliczenie)
@@ -36,6 +29,11 @@ Pull request według schematu:
 ```
 1. [Nazwisko, Imię](link do repo z kodem applikacji). [Nazwa aplikacji](link do wdrożonej aplikacji)
 ```
+
+Dodatkowe informacje na temat _pull requests_: Scott Chacon and Ben Straub,
+[Contributing to a Project on the GitHub](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
+(rozdział 6 książki [Pro Git](https://git-scm.com/book/en/v2))
+Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial).
 
 
 ## Projekty zespołowe (egzamin)
