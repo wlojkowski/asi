@@ -17,7 +17,7 @@ Projekt na zaliczenie musi zawierać następujące elementy:
 ```ruby
 gem 'devise', :github => 'plataformatec/devise'
 ```
-Można tez zainstalować (i użyć) wersję _prerelease_ gemu:
+Można tez zainstalować (i użyć) wersji _prerelease_:
 ```sh
 gem install carrierwave --pre # jest już wersja 1.0.0
 ```
