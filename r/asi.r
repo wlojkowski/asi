@@ -57,6 +57,8 @@ by_group
 
 write_csv(by_group, '~/Dropbox/Instytut/ASI/by_group.csv')
 
+write_csv(by_group %>% select(-id), '~/Dropbox/Instytut/ASI/podzial_na_grupy.csv')
+
 by_group %>%
   group_by(group) %>%
   summarise(total = n())
