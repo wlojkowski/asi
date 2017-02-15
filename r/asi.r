@@ -50,11 +50,12 @@ all = read_csv(filename) %>%
 write_csv(all, paste0(tools::file_path_sans_ext(filename), '-all.csv'))
 
 by_group = all %>%
-  arrange(group)
+  arrange(group) %>%
+  mutate(nr = row_number())
 
 by_group
 
-write_csv(by_group, '~/Dropbox/Instytut/ASI/by_group.csv'))
+write_csv(by_group, '~/Dropbox/Instytut/ASI/by_group.csv')
 
 by_group %>%
   group_by(group) %>%
