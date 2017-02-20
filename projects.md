@@ -35,6 +35,7 @@ Dodatkowe informacje na temat _pull requests_: Scott Chacon and Ben Straub,
 Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial).
 
 <!--
+  Regular Expressions Tutorial, http://www.regular-expressions.info/tutorial.html
      Find: (\d+),(.+),(.+),.+,.*
   Replace: $1. $2, $3
 -->
