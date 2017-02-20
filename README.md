@@ -30,6 +30,7 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 1. Aplikacja CRUD:
   - [repozytorium](https://github.com/rails4/my_gists_5.0), [heroku](https://gists5.herokuapp.com)
+  - [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) – Chapters 1–5.
 1. MVC w Rails:
   - Viktoria Kotsurenko, [The Basics of MVC in Rails: Skinny Everything](https://www.sitepoint.com/the-basics-of-mvc-in-rails-skinny-everything/)
   - Viktoria Kotsurenko, [7 Design Patterns to Refactor MVC Components in ](https://www.sitepoint.com/7-design-patterns-to-refactor-mvc-components-in-rails/)
