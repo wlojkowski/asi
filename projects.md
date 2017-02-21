@@ -98,7 +98,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 44. Kassjański, Michał
 45. Lewandowski, Rafał 21.02
 46. Lisiecki, Rafał 21.02
-47. Pobłocki, Patryk
+47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
 60. Rombel, Dawid
 48. Szałwicki, Robert 21.02
 
