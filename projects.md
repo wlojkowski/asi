@@ -58,33 +58,35 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 2
 
-13. Adler, Patryk
-14. Banaszek, Dawid
-15. Cwilik, Dawid
+13. Adler, Patryk 21.02
+14. Banaszek, Dawid 21.02
+15. Cwilik, Dawid 21.02
 16. Formela, Bartosz
 17. Gniazdowski, Kamil
-18. Kacprzak, Mateusz
-19. Kaczmarz, Tomasz
-20. Kawa, Piotr
-21. Kicki, Maksymilian
-22. Knitter, Tadeusz
+18. Kacprzak, Mateusz 21.02
+19. Kaczmarz, Tomasz 21.02
+20. Kawa, Piotr 21.02
+21. Kicki, Maksymilian 21.02
+22. Knitter, Tadeusz 21.02
+53. Kot, Kamil
 23. Laskowski, Piotr
 24. Mazepa, Mariusz
-25. Onych, Aleksandra
+25. Onych, Aleksandra 21.02
 26. Piecuch, Mikołaj
-27. Podleśny, Julian
+27. Podleśny, Julian 21.02
 28. Porębski, Adrian
-29. Półgęsek, Arkadiusz
-30. Pyszyńska, Martyna
+29. Półgęsek, Arkadiusz 21.02
+30. Pyszyńska, Martyna 21.02
 31. Sędek, Szymon
+63. Sadowski, Łukasz
 32. Stefański, Aleksander
-33. Szymanowski, Grzegorz
+33. Szymanowski, Grzegorz 21.02
 34. Świstun, Szymon
 35. Tejszerska, Aleksandra
-36. Walendzewicz, Daniel
+36. Walendzewicz, Daniel 21.02
 37. Wieliczko, Daria
 38. Wiśniewski, Jakub
-39. Zawodny, Szymon
+39. Zawodny, Szymon 21.02
 
 ### Grupa 3
 
@@ -103,7 +105,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 50. Dargacz, Karol
 52. Gołuński, Radosław
-53. Kot, Kamil
 54. Lis, Marcin
 55. Luszuk, Paweł
 56. Majewski, Sebastian
