@@ -43,6 +43,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 1
 
 1. Byszof, Michał
+49. Cabaj, Tomasz
 2. Gonera, Grzegorz
 3. Jabłoński, Jakub
 4. Jędzierowska, Magdalena
@@ -100,7 +101,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa ∞
 
-49. Cabaj, Tomasz
 50. Dargacz, Karol
 52. Gołuński, Radosław
 53. Kot, Kamil
