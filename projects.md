@@ -42,18 +42,18 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 1
 
-1. Byszof, Michał
+1. Byszof, Michał 21.02
 49. Cabaj, Tomasz
 2. Gonera, Grzegorz
 3. Jabłoński, Jakub
 4. Jędzierowska, Magdalena
 5. Katovich, Darya
-6. Łąkowski, Jakub
+6. Łąkowski, Jakub 21.02
 7. Łojkowski, Wojciech
-8. Makiewicz, Adam
+8. Makiewicz, Adam 21.02
 9. Motławski, Łukasz
 10. Narożnik, Kacper
-11. Osowska, Aleksandra
+11. Osowska, Aleksandra 21.02
 12. Sasin, Jacek
 
 ### Grupa 2
