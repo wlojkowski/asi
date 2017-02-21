@@ -90,16 +90,17 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 3
 
-40. Boncler, Jakub
-51. Dziubiński, Maciej
+40. Boncler, Jakub 21.02
+51. Dziubiński, Maciej 21.02
 41. Gałaszewska, Martyna
-42. Gawin, Mateusz
-43. Kalinowski, Damian
+42. Gawin, Mateusz 21.02
+43. Kalinowski, Damian 21.02
 44. Kassjański, Michał
-45. Lewandowski, Rafał
-46. Lisiecki, Rafał
+45. Lewandowski, Rafał 21.02
+46. Lisiecki, Rafał 21.02
 47. Pobłocki, Patryk
-48. Szałwicki, Robert
+60. Rombel, Dawid
+48. Szałwicki, Robert 21.02
 
 ### Grupa ∞
 
@@ -111,7 +112,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 57. Mielcarek, Dominik
 58. Mikucka, Julianna
 59. Radomski, Artur
-60. Rombel, Dawid
 61. Trubisz, Krystian
 62. Żołądek, Damian
 
