@@ -63,7 +63,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 15. Cwilik, Dawid 21.02
 16. Formela, Bartosz
 17. Gniazdowski, Kamil
-18. Kacprzak, Mateusz 21.02
+18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com)
 19. Kaczmarz, Tomasz 21.02
 20. Kawa, Piotr 21.02
 21. Kicki, Maksymilian 21.02
