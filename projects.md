@@ -70,7 +70,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 22. Knitter, Tadeusz 21.02
 53. Kot, Kamil
 23. Laskowski, Piotr
-24. Mazepa, Mariusz
+24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/)
 25. Onych, Aleksandra 21.02
 26. Piecuch, Mikołaj
 27. Podleśny, Julian 21.02
