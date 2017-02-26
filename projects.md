@@ -43,7 +43,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 1
 
 1. Byszof, Michał 21.02
-49. Cabaj, Tomasz
+49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI)
 2. Gonera, Grzegorz
 3. Jabłoński, Jakub
 4. Jędzierowska, Magdalena
