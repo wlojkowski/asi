@@ -50,6 +50,8 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 5. Katovich, Darya
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
 6. Łąkowski, Jakub 21.02
+54. Lis, Marcin 21.02
+56. Majewski, Sebastian 21.02
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
 8. Makiewicz, Adam 21.02 28.02
 58. Mikucka, Julianna 21.02
@@ -109,8 +111,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 50. Dargacz, Karol 21.02 28.02
 52. Gołuński, Radosław 21.02 28.02
-54. Lis, Marcin 21.02 28.02
-56. Majewski, Sebastian 21.02 28.02
 57. Mielcarek, Dominik 21.02 28.02
 58. Mikucka, Julianna 21.02 28.02
 59. Radomski, Artur 21.02 28.02
