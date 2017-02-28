@@ -62,7 +62,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 13. Adler, Patryk 21.02 28.02
 14. Banaszek, Dawid 21.02 28.02
-15. Cwilik, Dawid 21.02
+15. [Cwilik, Dawid](https://github.com/jodanpotasu/CrudRails) 21.02
 16. Formela, Bartosz 28.02
 17. Gniazdowski, Kamil 28.02
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com)
