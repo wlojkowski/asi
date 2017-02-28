@@ -45,7 +45,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 1. [Byszof, Michał](https://github.com/nietrwalyenol/asi) 21.02 28.02
 49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02
 2. Gonera, Grzegorz
-3. Jabłoński, Jakub
+3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my)
 4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI)
 52. Gołuński, Radosław 21.02
 5. Katovich, Darya
@@ -55,9 +55,9 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
 56. Majewski, Sebastian 21.02
 8. Makiewicz, Adam 21.02 28.02
-58. Mikucka, Julianna 21.02
+58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02
-10. Narożnik, Kacper
+10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions)
 11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02
 12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02
 
@@ -69,7 +69,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 16. Formela, Bartosz 28.02
 17. Gniazdowski, Kamil 28.02
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com)
-19. Kaczmarz, Tomasz 21.02
+19. [Kaczmarz, Tomasz](https://github.com/tkaczmarz/asi) 21.02
 20. [Kawa, Piotr](https://github.com/Pkawa/pinterest-clone). [Pinterest](https://myownpinterest.herokuapp.com/) 21.02
 21. [Kicki, Maksymilian] (https://github.com/mkicki/AsiApp) 21.02 28.02
 53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks)
