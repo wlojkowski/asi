@@ -50,7 +50,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 5. Katovich, Darya
 55. Luszuk, Paweł 21.02
 6. Łąkowski, Jakub 21.02
-7. Łojkowski, Wojciech
+7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
 8. Makiewicz, Adam 21.02 28.02
 9. Motławski, Łukasz 28.02
 10. Narożnik, Kacper
