@@ -48,6 +48,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 3. Jabłoński, Jakub
 4. Jędzierowska, Magdalena
 5. Katovich, Darya
+55. Luszuk, Paweł
 6. Łąkowski, Jakub 21.02
 7. Łojkowski, Wojciech
 8. Makiewicz, Adam 21.02 28.02
@@ -107,7 +108,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 50. Dargacz, Karol
 52. Gołuński, Radosław
 54. Lis, Marcin
-55. Luszuk, Paweł
 56. Majewski, Sebastian
 57. Mielcarek, Dominik
 58. Mikucka, Julianna
