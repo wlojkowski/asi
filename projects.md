@@ -98,7 +98,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 51. Dziubiński, Maciej 21.02 28.02
 41. Gałaszewska, Martyna
 42. Gawin, Mateusz 21.02 28.02
-43. Kalinowski, Damian 21.02 28.02
+43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02
 44. Kassjański, Michał
 45. Lewandowski, Rafał 21.02 28.02
 46. Lisiecki, Rafał 21.02 28.02
