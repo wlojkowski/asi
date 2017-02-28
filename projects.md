@@ -93,17 +93,17 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 3
 
-40. Boncler, Jakub 21.02
-51. Dziubiński, Maciej 21.02
+40. Boncler, Jakub 21.02 28.02
+51. Dziubiński, Maciej 21.02 28.02
 41. Gałaszewska, Martyna
-42. Gawin, Mateusz 21.02
-43. Kalinowski, Damian 21.02
+42. Gawin, Mateusz 21.02 28.02
+43. Kalinowski, Damian 21.02 28.02
 44. Kassjański, Michał
-45. Lewandowski, Rafał 21.02
-46. Lisiecki, Rafał 21.02
+45. Lewandowski, Rafał 21.02 28.02
+46. Lisiecki, Rafał 21.02 28.02
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
-60. Rombel, Dawid
-48. Szałwicki, Robert 21.02
+60. Rombel, Dawid 28.02
+48. Szałwicki, Robert 21.02 28.02
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6)[Antywirus](http://supperbull.herokuapp.com/) 21.02
 63. Ziętarski, Michał
 
