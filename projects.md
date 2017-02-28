@@ -81,7 +81,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 31. Sędek, Szymon 28.02
 63. Sadowski, Łukasz
 32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp)
-33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/) 28.02
+33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/)
 34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi)
 35. Tejszerska, Aleksandra 28.02
 36. Walendzewicz, Daniel 21.02 28.02
