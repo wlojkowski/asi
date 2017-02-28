@@ -51,8 +51,8 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
 6. Łąkowski, Jakub 21.02
 54. Lis, Marcin 21.02
-56. Majewski, Sebastian 21.02
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
+56. Majewski, Sebastian 21.02
 8. Makiewicz, Adam 21.02 28.02
 58. Mikucka, Julianna 21.02
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02
@@ -79,7 +79,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 27. Podleśny, Julian 21.02 28.02
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. Półgęsek, Arkadiusz 21.02 28.02
-30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow) 21.02 28.02
+30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow) 21.02
 31. Sędek, Szymon 28.02
 63. Sadowski, Łukasz
 32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp)
