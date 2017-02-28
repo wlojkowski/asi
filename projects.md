@@ -48,7 +48,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 3. Jabłoński, Jakub
 4. Jędzierowska, Magdalena
 5. Katovich, Darya
-55. Luszuk, Paweł
+55. Luszuk, Paweł 21.02
 6. Łąkowski, Jakub 21.02
 7. Łojkowski, Wojciech
 8. Makiewicz, Adam 21.02 28.02
@@ -105,15 +105,15 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa ∞
 
-50. Dargacz, Karol
-52. Gołuński, Radosław
-54. Lis, Marcin
-56. Majewski, Sebastian
-57. Mielcarek, Dominik
-58. Mikucka, Julianna
-59. Radomski, Artur
-61. Trubisz, Krystian
-62. Żołądek, Damian
+50. Dargacz, Karol 21.02 28.02
+52. Gołuński, Radosław 21.02 28.02
+54. Lis, Marcin 21.02 28.02
+56. Majewski, Sebastian 21.02 28.02
+57. Mielcarek, Dominik 21.02 28.02
+58. Mikucka, Julianna 21.02 28.02
+59. Radomski, Artur 21.02 28.02
+61. Trubisz, Krystian 21.02 28.02
+62. Żołądek, Damian 21.02 28.02
 
 
 ## Projekty zespołowe (egzamin)
