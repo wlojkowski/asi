@@ -60,34 +60,34 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 2
 
-13. Adler, Patryk 21.02
-14. Banaszek, Dawid 21.02
+13. Adler, Patryk 21.02 28.02
+14. Banaszek, Dawid 21.02 28.02
 15. Cwilik, Dawid 21.02
-16. Formela, Bartosz
-17. Gniazdowski, Kamil
+16. Formela, Bartosz 28.02
+17. Gniazdowski, Kamil 28.02
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com)
 19. Kaczmarz, Tomasz 21.02
 20. Kawa, Piotr 21.02
-21. [Kicki, Maksymilian] (https://github.com/mkicki/AsiApp)21.02
+21. [Kicki, Maksymilian] (https://github.com/mkicki/AsiApp) 21.02 28.02
 53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks)
 23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/)
 24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/)
-25. Onych, Aleksandra 21.02
+25. Onych, Aleksandra 21.02 28.02
 26. Piecuch, Mikołaj
-27. Podleśny, Julian 21.02
+27. Podleśny, Julian 21.02 28.02
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
-29. Półgęsek, Arkadiusz 21.02
-30. Pyszyńska, Martyna 21.02
-31. Sędek, Szymon
+29. Półgęsek, Arkadiusz 21.02 28.02
+30. Pyszyńska, Martyna 21.02 28.02
+31. Sędek, Szymon 28.02
 63. Sadowski, Łukasz
 32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp)
-33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/)
-34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi)
-35. Tejszerska, Aleksandra
-36. Walendzewicz, Daniel 21.02
+33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/) 28.02
+34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi) 28.02
+35. Tejszerska, Aleksandra 28.02
+36. Walendzewicz, Daniel 21.02 28.02
 37. Wieliczko, Daria
-38. Wiśniewski, Jakub
-39. Zawodny, Szymon 21.02
+38. Wiśniewski, Jakub 28.02
+39. Zawodny, Szymon 21.02 28.02
 
 ### Grupa 3
 
