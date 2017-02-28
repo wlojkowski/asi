@@ -48,7 +48,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 3. Jabłoński, Jakub
 4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI)
 5. Katovich, Darya
-55. Luszuk, Paweł 21.02
+55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
 6. Łąkowski, Jakub 21.02
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
 8. Makiewicz, Adam 21.02 28.02
