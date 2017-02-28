@@ -47,6 +47,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 2. Gonera, Grzegorz
 3. Jabłoński, Jakub
 4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI)
+52. Gołuński, Radosław 21.02
 5. Katovich, Darya
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
 6. Łąkowski, Jakub 21.02
@@ -101,21 +102,20 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 44. Kassjański, Michał
 45. Lewandowski, Rafał 21.02 28.02
 46. Lisiecki, Rafał 21.02 28.02
+57. Mielcarek, Dominik 21.02
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
-60. Rombel, Dawid 28.02
+59. Radomski, Artur
+60. Rombel, Dawid
 48. Szałwicki, Robert 21.02 28.02
-22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6)[Antywirus](http://supperbull.herokuapp.com/) 21.02
+22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02
 63. Ziętarski, Michał
+62. Żołądek, Damian 21.02
 
 ### Grupa ∞
 
 50. Dargacz, Karol 21.02 28.02
-52. Gołuński, Radosław 21.02 28.02
-57. Mielcarek, Dominik 21.02 28.02
-58. Mikucka, Julianna 21.02 28.02
-59. Radomski, Artur 21.02 28.02
 61. Trubisz, Krystian 21.02 28.02
-62. Żołądek, Damian 21.02 28.02
+
 
 
 ## Projekty zespołowe (egzamin)
