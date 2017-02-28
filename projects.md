@@ -68,8 +68,8 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 20. Kawa, Piotr 21.02
 21. [Kicki, Maksymilian] (https://github.com/mkicki/AsiApp)21.02
 22. Knitter, Tadeusz 21.02
-53. [Kot, Kamil] (https://github.com/KotMeow/asi-frameworks)
-23. Laskowski, Piotr
+53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks)
+23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/)
 24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/)
 25. Onych, Aleksandra 21.02
 26. Piecuch, Mikołaj
