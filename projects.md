@@ -54,7 +54,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 9. Motławski, Łukasz
 10. Narożnik, Kacper
 11. Osowska, Aleksandra 21.02
-12. Sasin, Jacek
+12. [Sasin, Jacek](https://github.com/jsasin/asi_lab)
 
 ### Grupa 2
 
