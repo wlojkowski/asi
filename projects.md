@@ -102,6 +102,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 60. Rombel, Dawid
 48. Szałwicki, Robert 21.02
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6)[Antywirus](http://supperbull.herokuapp.com/) 21.02
+63. Ziętarski, Michał
 
 ### Grupa ∞
 
