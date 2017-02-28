@@ -42,7 +42,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 1
 
-1. Byszof, Michał 21.02 28.02
+1. [Byszof, Michał](https://github.com/nietrwalyenol/asi) 21.02 28.02
 49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02
 2. Gonera, Grzegorz
 3. Jabłoński, Jakub
