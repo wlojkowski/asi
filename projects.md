@@ -50,7 +50,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 52. Gołuński, Radosław 21.02
 5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1)
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
-6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
+6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi) [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
 54. Lis, Marcin 21.02
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
 56. Majewski, Sebastian 21.02
