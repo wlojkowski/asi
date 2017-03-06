@@ -99,7 +99,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 41. Gałaszewska, Martyna
 42. Gawin, Mateusz 21.02 28.02
 43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02
-44. Kassjański, Michał
+44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
 45. Lewandowski, Rafał 21.02 28.02
 46. [Lisiecki, Rafał](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](https://ruby1naug.herokuapp.com/) 21.02 28.02
 57. Mielcarek, Dominik 21.02
