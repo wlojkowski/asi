@@ -95,7 +95,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 3
 
 40. Boncler, Jakub 21.02 28.02
-51. Dziubiński, Maciej 21.02 28.02
+51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi)
 41. Gałaszewska, Martyna
 42. Gawin, Mateusz 21.02 28.02
 43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02
