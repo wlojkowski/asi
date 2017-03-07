@@ -40,7 +40,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
   Replace: $1. $2, $3
 -->
 
-### Grupa 1
+### Grupa 1 (10:30, l. 25)
 
 1. [Byszof, Michał](https://github.com/nietrwalyenol/asi) 21.02 28.02
 49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02 07.03
@@ -53,16 +53,16 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi) [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
 54. Lis, Marcin 21.02 07.03
-7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp) 07.03
+7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
 56. Majewski, Sebastian 21.02 07.03
 8. Makiewicz, Adam 21.02 28.02
 58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 07.03
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03
 10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions) 07.03
 11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02
-12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02 07.03
+12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02
 
-### Grupa 2
+### Grupa 2 (12:15, l. 25)
 
 13. [Adler, Patryk](https://github.com/adlerpoland/mojeasi) 21.02 28.02
 14. Banaszek, Dawid 21.02 28.02
@@ -92,7 +92,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 38. Wiśniewski, Jakub 28.02
 39. Zawodny, Szymon 21.02 28.02
 
-### Grupa 3
+### Grupa 3 (15:30, l. 25)
 
 40. Boncler, Jakub 21.02 28.02
 51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi)
