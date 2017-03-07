@@ -48,7 +48,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 2. Gonera, Grzegorz 07.03
 3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
 4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI)
-52. Gołuński, Radosław 21.02
+52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL) 21.02
 5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1)
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi) [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
