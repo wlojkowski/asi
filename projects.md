@@ -86,7 +86,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp)
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/)
 34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi)
-35. Tejszerska, Aleksandra 28.02
+35. [Tejszerska, Aleksandra](https://github.com/atejszerska/ruby-asi) 28.02
 36. Walendzewicz, Daniel 21.02 28.02
 37. Wieliczko, Daria
 38. [Wiśniewski, Jakub](https://github.com/jawisniewski//RubyOnR). [Firma transportowa](http://firmatransportowa.herokuapp.com/) 28.02
