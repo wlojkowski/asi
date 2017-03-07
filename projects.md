@@ -66,7 +66,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 2 (12:15, l. 25)
 
 13. [Adler, Patryk](https://github.com/adlerpoland/mojeasi) 21.02 28.02
-14. Banaszek, Dawid 21.02 28.02 07.03
+14. Banaszek, Dawid 21.02 28.02
 15. [Cwilik, Dawid](https://github.com/jodanpotasu/CrudRails) 21.02
 17. Gniazdowski, Kamil 28.02 07.03
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com) 07.03
@@ -96,7 +96,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 3 (15:30, l. 25)
 
-40. Boncler, Jakub 21.02 28.02 07.03
+40. Boncler, Jakub 21.02 28.02
 51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi)
 41. [Gałaszewska, Martyna] (https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/)
 42. Gawin, Mateusz 21.02 28.02 07.03
