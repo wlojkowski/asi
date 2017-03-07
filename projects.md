@@ -43,30 +43,30 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 1
 
 1. [Byszof, Michał](https://github.com/nietrwalyenol/asi) 21.02 28.02
-49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02
-2. Gonera, Grzegorz
-3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my)
+49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02 07.03
+16. Formela, Bartosz 28.02
+2. Gonera, Grzegorz 07.03
+3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
 4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI)
 52. Gołuński, Radosław 21.02
 5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1)
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi) [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
-54. Lis, Marcin 21.02
-7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
-56. Majewski, Sebastian 21.02
+54. Lis, Marcin 21.02 07.03
+7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp) 07.03
+56. Majewski, Sebastian 21.02 07.03
 8. Makiewicz, Adam 21.02 28.02
-58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02
-9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02
-10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions)
+58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 07.03
+9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03
+10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions) 07.03
 11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02
-12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02
+12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02 07.03
 
 ### Grupa 2
 
 13. [Adler, Patryk](https://github.com/adlerpoland/mojeasi) 21.02 28.02
 14. Banaszek, Dawid 21.02 28.02
 15. [Cwilik, Dawid](https://github.com/jodanpotasu/CrudRails) 21.02
-16. Formela, Bartosz 28.02
 17. Gniazdowski, Kamil 28.02
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com)
 19. [Kaczmarz, Tomasz](https://github.com/tkaczmarz/asi) 21.02
