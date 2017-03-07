@@ -102,7 +102,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
 45. Lewandowski, Rafał 21.02 28.02
 46. [Lisiecki, Rafał](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](https://ruby1naug.herokuapp.com/) 21.02 28.02
-57. Mielcarek, Dominik 21.02
+57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
 59. Radomski, Artur
 60. Rombel, Dawid
