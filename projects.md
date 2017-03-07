@@ -109,7 +109,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 48. Szałwicki, Robert 21.02 28.02
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02
 63. Ziętarski, Michał
-62. Żołądek, Damian 21.02
+62. Żołądek, Damian(https://github.com/damian024/rails) 21.02
 
 ### Grupa ∞
 
