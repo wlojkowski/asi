@@ -47,18 +47,18 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 16. Formela, Bartosz 28.02
 2. Gonera, Grzegorz 07.03
 3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
-4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI)
+4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI). [Heroku](https://stark-reaches-64952.herokuapp.com/)
 52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL) 21.02
-5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1)
+5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1). [Blog](https://blogrubydaria.herokuapp.com)
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
-6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi) [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
+6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
 54. Lis, Marcin 21.02 07.03
-7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
+7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp). [Quotes](https://quotesapprails.herokuapp.com/)
 56. Majewski, Sebastian 21.02 07.03
 8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi) 21.02 28.02
 58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 07.03
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03
-10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions) 07.03
+10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions). [Champions](https://champions-lol.herokuapp.com/)
 11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02
 12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02
 
@@ -72,19 +72,19 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 19. [Kaczmarz, Tomasz](https://github.com/tkaczmarz/asi) 21.02
 20. [Kawa, Piotr](https://github.com/Pkawa/pinterest-clone). [Pinterest](https://myownpinterest.herokuapp.com/) 21.02
 21. [Kicki, Maksymilian](https://github.com/mkicki/Herbaciarnia). [Herbaciarnia](https://herbaciarnia.herokuapp.com) 21.02 28.02
-53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks) [Frameworks] (https://asi-frameworks.herokuapp.com/)
+53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks). [Frameworks] (https://asi-frameworks.herokuapp.com/)
 23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/). [Getting-Started](https://github.com/ozh204/Getting-Started)
 24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/)
 25. [Onych, Aleksandra](https://github.com/aonych/ruby_filmy). [Filmy animowane](https://quiet-everglades-56380.herokuapp.com/) 21.02 28.02
-26. Piecuch, Mikołaj
-27. [Podleśny, Julian](https://github.com/jpodlesny/ruby_projekt). [Leki](https://intense-brook-60837.herokuapp.com/) 21.02 28.02 
+26. [Piecuch, Mikołaj](https://github.com/mikolajpiecuch/asi)
+27. [Podleśny, Julian](https://github.com/jpodlesny/ruby_projekt). [Leki](https://intense-brook-60837.herokuapp.com/) 21.02 28.02
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. Półgęsek, Arkadiusz 21.02 28.02
 30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow) 21.02
 31. [Sędek, Szymon](https://github.com/GSun12/ASI). [App Store](https://hidden-gorge-22591.herokuapp.com/) 28.02
 63. Sadowski, Łukasz
 32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp)
-33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/)
+33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka książek](https://biblioteka-ksiazek.herokuapp.com/)
 34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi)
 35. [Tejszerska, Aleksandra](https://github.com/atejszerska/ruby-asi) 28.02
 36. Walendzewicz, Daniel 21.02 28.02
@@ -104,12 +104,12 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 46. [Lisiecki, Rafał](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](https://ruby1naug.herokuapp.com/) 21.02 28.02
 57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
-59. Radomski, Artur
+59. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie)
 60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/)
 48. Szałwicki, Robert 21.02 28.02
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02
 63. Ziętarski, Michał
-62. Żołądek, Damian(https://github.com/damian024/rails) 21.02
+62. [Żołądek, Damian](https://github.com/damian024/rails) 21.02
 
 ### Grupa ∞
 
