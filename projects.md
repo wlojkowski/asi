@@ -62,6 +62,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02
 12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02
 
+
 ### Grupa 2 (12:15, l. 25)
 
 13. [Adler, Patryk](https://github.com/adlerpoland/mojeasi) 21.02 28.02
@@ -92,6 +93,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 38. [Wiśniewski, Jakub](https://github.com/jawisniewski//RubyOnR). [Firma transportowa](http://firmatransportowa.herokuapp.com/) 28.02
 39. Zawodny, Szymon 21.02 28.02
 
+
 ### Grupa 3 (15:30, l. 25)
 
 40. Boncler, Jakub 21.02 28.02
@@ -111,14 +113,14 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 63. Ziętarski, Michał
 62. [Żołądek, Damian](https://github.com/damian024/rails) 21.02
 
+
 ### Grupa ∞
 
 50. Dargacz, Karol 21.02 28.02
 61. Trubisz, Krystian 21.02 28.02
 
 
-
-## Projekty zespołowe (egzamin)
+## Projekty zespołowe (egzamin = średnia arytmetyczna z projektu na zliczenie i egzamin)
 
 Pull request według schematu:
 ```
