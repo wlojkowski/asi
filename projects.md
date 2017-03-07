@@ -81,7 +81,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. Półgęsek, Arkadiusz 21.02 28.02
 30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow) 21.02
-31. Sędek, Szymon 28.02
+31. [Sędek, Szymon](https://github.com/GSun12/ASI). [App Store](https://hidden-gorge-22591.herokuapp.com/) 28.02
 63. Sadowski, Łukasz
 32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp)
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/)
