@@ -96,7 +96,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 40. Boncler, Jakub 21.02 28.02
 51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi)
-41. Gałaszewska, Martyna
+41. [Gałaszewska, Martyna] (https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/)
 42. Gawin, Mateusz 21.02 28.02
 43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02
 44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
