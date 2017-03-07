@@ -126,5 +126,5 @@ Pull request według schematu:
 ```
 1. [Nazwa zespołu](link do repo z kodem applikacji). [Nazwa aplikacji](link do wdrożonej aplikacji)
 ```
-
+1. [Patryk Pobłocki](https://github.com/ppoblocki/egzaminRails). [PinTab!](https://fast-shore-79390.herokuapp.com/)
 **Uwaga:** W pliku _README.md_ w repo należy wpisać wszystkich autorów aplikacji.
