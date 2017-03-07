@@ -55,7 +55,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 54. Lis, Marcin 21.02 07.03
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp)
 56. Majewski, Sebastian 21.02 07.03
-8. Makiewicz, Adam 21.02 28.02
+8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi) 21.02 28.02
 58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 07.03
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03
 10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions) 07.03
