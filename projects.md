@@ -108,7 +108,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
 59. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie) 07.03
 60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/) 07.0
-48. Szałwicki, Robert 21.02 28.02 07.03
+48. Szałwicki, Robert 21.02 28.02
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03
 63. Ziętarski, Michał
 62. [Żołądek, Damian](https://github.com/damian024/rails) 21.02 07.03
