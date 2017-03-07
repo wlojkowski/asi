@@ -89,7 +89,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 35. Tejszerska, Aleksandra 28.02
 36. Walendzewicz, Daniel 21.02 28.02
 37. Wieliczko, Daria
-38. Wiśniewski, Jakub 28.02
+38. [Wiśniewski, Jakub](https://github.com/jawisniewski//RubyOnR). [Firma transportowa](http://firmatransportowa.herokuapp.com/) 28.02
 39. Zawodny, Szymon 21.02 28.02
 
 ### Grupa 3 (15:30, l. 25)
