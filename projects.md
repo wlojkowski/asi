@@ -54,7 +54,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
 54. Lis, Marcin 21.02 07.03
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp). [Quotes](https://quotesapprails.herokuapp.com/)
-56. Majewski, Sebastian 21.02 07.03
+56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad) 21.02 07.03
 8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi) 21.02 28.02
 58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03
