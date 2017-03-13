@@ -2,14 +2,17 @@
 
 Projekt na zaliczenie musi zawierać następujące elementy:
 
-1. Co najmniej jeden model. W bazie umieścić sporo danych
+1. Co najmniej jeden model. W bazie umieścić sporo **sensownych** danych
   (np. można skorzystać z gemu Faker).
+1. Aplikacja powinna korzystać z niestandardowych gemów, np. z jednego
+  z gemów opisanych na stronie [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without?__s=jvsvsq3unktoidfpqwzm).
+  Gemy _device_, _will_paginate_ to gemy standardowe. 
 1. Widoki i layout aplikacji w jednym z frameworków:
    Bootstrap, Foundation, Materialize lub innym (musi być responsywny).
 1. Autoryzacja (logowanie) – [ActionController::HttpAuthentication::Basic](http://edgeapi.rubyonrails.org/classes/ActionController/HttpAuthentication/Basic.html)
-   lub z książki [](https://www.railstutorial.org/book) (rozdziały 6-10)
-   lub OAuth2 + GitHub.
-1. Czasami konkretny gem nie działa z ostatnią wersją Rails. Można wtedy spróbować
+   lub z książki [https://www.railstutorial.org/book](https://www.railstutorial.org/book) 
+   (rozdziały 6-10) lub OAuth2 + GitHub.
+1. Czasami konkretny gem może nie działać z ostatnią wersją Rails. Można wtedy spróbować
   wersję z gałęzi master z repozytorium z kodem. Na przykład tak instalujemy
   gem Devise wpisując go w pliku _Gemfile_ w taki sposób
   ([zob. też](http://bundler.io/git.html)):
