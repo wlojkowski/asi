@@ -2,7 +2,7 @@
 
 Projekt na zaliczenie musi zawierać następujące elementy:
 
-1. Co najmniej jeden model. W bazie umieścić sporo **sensownych** danych
+1. Co najmniej jeden model. W bazie należy zapisać sporo **sensownych** danych
   (np. można skorzystać z gemu Faker).
 1. Aplikacja powinna korzystać z niestandardowych gemów, np. z jednego
   z gemów opisanych na stronie [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without?__s=jvsvsq3unktoidfpqwzm).
