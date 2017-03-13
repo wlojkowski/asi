@@ -45,7 +45,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 1. [Byszof, Michał](https://github.com/nietrwalyenol/asi) 21.02 28.02
 49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02 07.03
 16. Formela, Bartosz 28.02
-2. Gonera, Grzegorz 07.03
+2. [Gonera, Grzegorz](https://bitbucket.org/ArmaCoder/gdg). [Edytor poziomów w grze](https://godizzygo.herokuapp.com/) 07.03
 3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
 4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI). [Heroku](https://stark-reaches-64952.herokuapp.com/)
 52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL) 21.02
