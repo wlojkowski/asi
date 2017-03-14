@@ -93,18 +93,18 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 3 (15:30, l. 25)
 
-51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi)
-41. [Gałaszewska, Martyna](https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/)
-43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02 07.03
+51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi) 14.03
+41. [Gałaszewska, Martyna](https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/) 14.03
+43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02 07.03 14.03
 44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
-22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03 ?
+22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03
 46. [Lisiecki, Rafał](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](https://ruby1naug.herokuapp.com/) 21.02 28.02
-57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02 07.03
-47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
+57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02 07.03 14.03
+47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/) 14.03
 59. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie) 07.03
-60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/)
-48. [Szałwicki, Robert](https://github.com/Pentium320/asi-projekt). 21.02 28.02
-62. [Żołądek, Damian](https://github.com/damian024/rails) 21.02 07.03
+60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/) 14.03
+48. [Szałwicki, Robert](https://github.com/Pentium320/asi-projekt). 21.02 28.02 14.03
+62. [Żołądek, Damian](https://github.com/damian024/rails) 21.02 07.03 14.03
 
 
 ### Grupa ∞
