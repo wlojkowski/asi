@@ -87,7 +87,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka książek](https://biblioteka-ksiazek.herokuapp.com/)
 34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi) 07.03
 35. [Tejszerska, Aleksandra](https://github.com/atejszerska/ruby-asi) 28.02 07.03
-37. Wieliczko, Daria 07.03
+37. [Wieliczko, Daria](https://github.com/sherrywolf/ruby_crud) 07.03
 38. [Wiśniewski, Jakub](https://github.com/jawisniewski//RubyOnR). [Firma transportowa](http://firmatransportowa.herokuapp.com/) 28.02 07.03
 
 
@@ -119,7 +119,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 42. Gawin, Mateusz 21.02 28.02 07.03 14:03
 17. Gniazdowski, Kamil 28.02 07.03 14:03
 45. Lewandowski, Rafał 21.02 28.02 07.03
-54. Lis, Marcin 21.02 07.03 14.03
+54. [Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/) 21.02 07.03 14.03
 63. Sadowski, Łukasz 07.03 14:03
 36. Walendzewicz, Daniel 21.02 28.02 07.03 14:03
 39. Zawodny, Szymon 21.02 28.02 07.03 14:03
