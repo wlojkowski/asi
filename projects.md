@@ -68,9 +68,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 2 (12:15, l. 25)
 
 13. [Adler, Patryk](https://github.com/adlerpoland/mojeasi) 21.02 28.02 14:03
-14. Banaszek, Dawid 21.02 28.02 14:03
 15. [Cwilik, Dawid](https://github.com/jodanpotasu/CrudRails) 21.02 14:03
-17. Gniazdowski, Kamil 28.02 07.03 14:03
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com) 07.03
 19. [Kaczmarz, Tomasz](https://github.com/tkaczmarz/asi). [Salon samochodowy](https://shielded-tundra-94334.herokuapp.com) 21.02
 20. [Kawa, Piotr](https://github.com/Pkawa/pinterest-clone). [Pinterest](https://myownpinterest.herokuapp.com/) 21.02
@@ -84,35 +82,28 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. [Półgęsek, Arkadiusz](https://github.com/apolgesek/asiprojekt). [Katalog stron www](https://serene-dusk-56530.herokuapp.com/) 21.02 28.02 07.03
 30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow) 21.02 14:03
-31. [Sędek, Szymon](https://github.com/GSun12/ASI). [App Store](https://hidden-gorge-22591.herokuapp.com/) 28.02 07.03 14:03
-63. Sadowski, Łukasz 07.03 14:03
+31. [Sędek, Szymon](https://github.com/GSun12/ASI). [App Store](https://hidden-gorge-22591.herokuapp.com/) 28.02 07.03
 32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp) 07.03
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka książek](https://biblioteka-ksiazek.herokuapp.com/)
 34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi) 07.03
-35. [Tejszerska, Aleksandra](https://github.com/atejszerska/ruby-asi) 28.02 07.03 14:03
-36. Walendzewicz, Daniel 21.02 28.02 07.03 14:03
+35. [Tejszerska, Aleksandra](https://github.com/atejszerska/ruby-asi) 28.02 07.03
 37. Wieliczko, Daria 07.03
-38. [Wiśniewski, Jakub](https://github.com/jawisniewski//RubyOnR). [Firma transportowa](http://firmatransportowa.herokuapp.com/) 28.02 07.03 14:03
-39. Zawodny, Szymon 21.02 28.02 07.03 14:03
+38. [Wiśniewski, Jakub](https://github.com/jawisniewski//RubyOnR). [Firma transportowa](http://firmatransportowa.herokuapp.com/) 28.02 07.03
 
 
 ### Grupa 3 (15:30, l. 25)
 
-40. Boncler, Jakub 21.02 28.02
 51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi)
-41. [Gałaszewska, Martyna] (https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/)
-42. Gawin, Mateusz 21.02 28.02 07.03
+41. [Gałaszewska, Martyna](https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/)
 43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02 07.03
 44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03 ?
-45. Lewandowski, Rafał 21.02 28.02 07.03
 46. [Lisiecki, Rafał](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](https://ruby1naug.herokuapp.com/) 21.02 28.02
 57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02 07.03
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
 59. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie) 07.03
 60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/)
 48. [Szałwicki, Robert](https://github.com/Pentium320/asi-projekt). 21.02 28.02
-63. Ziętarski, Michał
 62. [Żołądek, Damian](https://github.com/damian024/rails) 21.02 07.03
 
 
@@ -123,7 +114,16 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ---
 
+14. Banaszek, Dawid 21.02 28.02 14:03
+40. Boncler, Jakub 21.02 28.02
+42. Gawin, Mateusz 21.02 28.02 07.03 14:03
+17. Gniazdowski, Kamil 28.02 07.03 14:03
+45. Lewandowski, Rafał 21.02 28.02 07.03
 54. Lis, Marcin 21.02 07.03 14.03
+63. Sadowski, Łukasz 07.03 14:03
+36. Walendzewicz, Daniel 21.02 28.02 07.03 14:03
+39. Zawodny, Szymon 21.02 28.02 07.03 14:03
+63. Ziętarski, Michał
 
 
 ## Projekty zespołowe (egzamin = średnia arytmetyczna z projektu na zliczenie i egzamin)
