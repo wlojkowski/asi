@@ -102,7 +102,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02 07.03 14.03
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
 59. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie) 07.03
-60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/) 14.03
+60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/)
 48. [Szałwicki, Robert](https://github.com/Pentium320/asi-projekt). 21.02 28.02 14.03
 62. [Żołądek, Damian](https://github.com/damian024/rails) 21.02 07.03 14.03
 
@@ -117,7 +117,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 14. Banaszek, Dawid 21.02 28.02 14:03
 40. Boncler, Jakub 21.02 28.02
 42. Gawin, Mateusz 21.02 28.02 07.03 14:03
-17. Gniazdowski, Kamil 28.02 07.03 14:03
+17. Gniazdowski, Kamil 28.02 07.03
 45. Lewandowski, Rafał 21.02 28.02 07.03
 54. [Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/) 21.02 07.03 14.03
 63. Sadowski, Łukasz 07.03 14:03
