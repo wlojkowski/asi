@@ -6,11 +6,11 @@ Projekt na zaliczenie musi zawierać następujące elementy:
   (np. można skorzystać z gemu Faker).
 1. Aplikacja powinna korzystać z niestandardowych gemów, np. z jednego
   z gemów opisanych na stronie [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without?__s=jvsvsq3unktoidfpqwzm).
-  Gemy _device_, _will_paginate_ to gemy standardowe. 
+  Gemy _device_, _will_paginate_ to gemy standardowe.
 1. Widoki i layout aplikacji w jednym z frameworków:
    Bootstrap, Foundation, Materialize lub innym (musi być responsywny).
 1. Autoryzacja (logowanie) – [ActionController::HttpAuthentication::Basic](http://edgeapi.rubyonrails.org/classes/ActionController/HttpAuthentication/Basic.html)
-   lub z książki [https://www.railstutorial.org/book](https://www.railstutorial.org/book) 
+   lub z książki [https://www.railstutorial.org/book](https://www.railstutorial.org/book)
    (rozdziały 6-10) lub OAuth2 + GitHub.
 1. Czasami konkretny gem może nie działać z ostatnią wersją Rails. Można wtedy spróbować
   wersję z gałęzi master z repozytorium z kodem. Na przykład tak instalujemy
@@ -46,23 +46,23 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 1 (10:30, l. 25)
 
 1. [Byszof, Michał](https://github.com/nietrwalyenol/asi) 21.02 28.02
-49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02 07.03
+49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02 07.03 14.03
 16. Formela, Bartosz 28.02
 2. [Gonera, Grzegorz](https://bitbucket.org/ArmaCoder/gdg). [Edytor poziomów w grze](https://godizzygo.herokuapp.com/) 07.03
 3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
-4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI). [Heroku](https://stark-reaches-64952.herokuapp.com/)
-52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL) 21.02
+4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI). [Heroku](https://stark-reaches-64952.herokuapp.com/) 14.03
+52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL) 21.02 14.03
 5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1). [Blog](https://blogrubydaria.herokuapp.com)
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Battleships](https://battleshipsasi.herokuapp.com/startup/index) 21.02
-6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
-54. Lis, Marcin 21.02 07.03
+6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02 14.03
+54. Lis, Marcin 21.02 07.03 14.03
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp). [Quotes](https://quotesapprails.herokuapp.com/)
-56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad) 21.02 07.03
+56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad) 21.02 07.03 14.03
 8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi) 21.02 28.02
-58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02
-9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03
+58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 14.03
+9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03 14.03
 10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions). [Champions](https://champions-lol.herokuapp.com/)
-11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02
+11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02 14.03
 12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02
 
 
