@@ -81,7 +81,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 27. [Podleśny, Julian](https://github.com/jpodlesny/ruby_projekt). [Leki](https://intense-brook-60837.herokuapp.com/) 21.02 28.02 07.03
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. [Półgęsek, Arkadiusz](https://github.com/apolgesek/asiprojekt). [Katalog stron www](https://serene-dusk-56530.herokuapp.com/) 21.02 28.02 07.03
-30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow) 21.02 14:03
+30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow). [Architecture](https://stark-tor-96562.herokuapp.com/) 21.02 14:03
 31. [Sędek, Szymon](https://github.com/GSun12/ASI). [App Store](https://hidden-gorge-22591.herokuapp.com/) 28.02 07.03
 32. [Stefański, Aleksander](https://github.com/astefanski1/MyGamesRubyApp) [GamesLibrary](https://mygamesrubyapp.herokuapp.com/) 07.03
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka książek](https://biblioteka-ksiazek.herokuapp.com/)
