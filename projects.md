@@ -98,6 +98,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02 07.03 14.03
 44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03
+54. [Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/) 21.02 07.03 14.03
 46. [Lisiecki, Rafał](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](https://ruby1naug.herokuapp.com/) 21.02 28.02
 57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02 07.03 14.03
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
@@ -116,10 +117,9 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 14. Banaszek, Dawid 21.02 28.02 14:03
 40. Boncler, Jakub 21.02 28.02
-42. Gawin, Mateusz 21.02 28.02 07.03 14:03
+42. Gawin, Mateusz 21.02 28.02 07.03 14.03
 17. Gniazdowski, Kamil 28.02 07.03
 45. Lewandowski, Rafał 21.02 28.02 07.03
-54. [Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/) 21.02 07.03 14.03
 63. Sadowski, Łukasz 07.03 14:03
 36. Walendzewicz, Daniel 21.02 28.02 07.03 14:03
 39. Zawodny, Szymon 21.02 28.02 07.03 14:03
