@@ -67,21 +67,21 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ### Grupa 2 (12:15, l. 25)
 
-13. [Adler, Patryk](https://github.com/adlerpoland/mojeasi) 21.02 28.02 14:03
-15. [Cwilik, Dawid](https://github.com/jodanpotasu/CrudRails). [NoteManager](https://shielded-temple-90073.herokuapp.com) 21.02 14:03
+13. [Adler, Patryk](https://github.com/adlerpoland/mojeasi) 21.02 28.02 14.03
+15. [Cwilik, Dawid](https://github.com/jodanpotasu/CrudRails). [NoteManager](https://shielded-temple-90073.herokuapp.com) 21.02 14.03
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com) 07.03
 19. [Kaczmarz, Tomasz](https://github.com/tkaczmarz/asi). [Salon samochodowy](https://shielded-tundra-94334.herokuapp.com) 21.02
 20. [Kawa, Piotr](https://github.com/Pkawa/pinterest-clone). [Pinterest](https://myownpinterest.herokuapp.com/) 21.02
-21. [Kicki, Maksymilian](https://github.com/mkicki/Herbaciarnia). [Herbaciarnia](https://herbaciarnia.herokuapp.com) 21.02 28.02 07.03 14:03
+21. [Kicki, Maksymilian](https://github.com/mkicki/Herbaciarnia). [Herbaciarnia](https://herbaciarnia.herokuapp.com) 21.02 28.02 07.03 14.03
 53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/)
 23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/). [Getting-Started](https://github.com/ozh204/Getting-Started)
-24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/) 14:03
+24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/) 14.03
 25. [Onych, Aleksandra](https://github.com/aonych/ruby_filmy). [Filmy animowane](https://quiet-everglades-56380.herokuapp.com/) 21.02 28.02 07.03
-26. [Piecuch, Mikołaj](https://github.com/mikolajpiecuch/asi) 07.03 14:03
+26. [Piecuch, Mikołaj](https://github.com/mikolajpiecuch/asi) 07.03 14.03
 27. [Podleśny, Julian](https://github.com/jpodlesny/ruby_projekt). [Leki](https://intense-brook-60837.herokuapp.com/) 21.02 28.02 07.03
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. [Półgęsek, Arkadiusz](https://github.com/apolgesek/asiprojekt). [Katalog stron WWW](https://serene-dusk-56530.herokuapp.com/) 21.02 28.02 07.03
-30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow). [Architecture](https://stark-tor-96562.herokuapp.com/) 21.02 14:03
+30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow). [Architecture](https://stark-tor-96562.herokuapp.com/) 21.02 14.03
 31. [Sędek, Szymon](https://github.com/GSun12/ASI). [App Store](https://hidden-gorge-22591.herokuapp.com/) 28.02 07.03
 32. [Stefański, Aleksander](https://github.com/astefanski1/MyGamesRubyApp) [GamesLibrary](https://mygamesrubyapp.herokuapp.com/) 07.03
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka książek](https://biblioteka-ksiazek.herokuapp.com/)
@@ -116,13 +116,13 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 ---
 
-14. Banaszek, Dawid 21.02 28.02 14:03
+14. Banaszek, Dawid 21.02 28.02 14.03
 40. Boncler, Jakub 21.02 28.02
 17. Gniazdowski, Kamil 28.02 07.03
 45. Lewandowski, Rafał 21.02 28.02 07.03
-63. Sadowski, Łukasz 07.03 14:03
-36. Walendzewicz, Daniel 21.02 28.02 07.03 14:03
-39. Zawodny, Szymon 21.02 28.02 07.03 14:03
+63. Sadowski, Łukasz 07.03 14.03
+36. Walendzewicz, Daniel 21.02 28.02 07.03 14.03
+39. Zawodny, Szymon 21.02 28.02 07.03 14.03
 63. Ziętarski, Michał
 
 
