@@ -56,7 +56,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Battleships](https://battleshipsasi.herokuapp.com/startup/index) 21.02
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02 14.03
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp). [Quotes](https://quotesapprails.herokuapp.com/)
-56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad) 21.02 07.03 14.03
+56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad) [Notepad](https://rornotepad.herokuapp.com/)21.02 07.03 14.03
 8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi) 21.02 28.02
 58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 14.03
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03 14.03
@@ -95,6 +95,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi) 14.03
 41. [Gałaszewska, Martyna](https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/) 14.03
+42. [Gawin, Mateusz](https://github.com/matgawin/projekt_asi) 21.02 28.02 07.03 14.03
 43. [Kalinowski, Damian](https://github.com/lafreak/asi). 21.02 28.02 07.03 14.03
 44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03
@@ -117,7 +118,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 14. Banaszek, Dawid 21.02 28.02 14:03
 40. Boncler, Jakub 21.02 28.02
-42. Gawin, Mateusz 21.02 28.02 07.03 14.03
 17. Gniazdowski, Kamil 28.02 07.03
 45. Lewandowski, Rafał 21.02 28.02 07.03
 63. Sadowski, Łukasz 07.03 14:03
@@ -134,5 +134,6 @@ Pull request według schematu:
 ```
 
 1. [Patryk Pobłocki](https://github.com/ppoblocki/egzaminRails). [PinTab!](https://fast-shore-79390.herokuapp.com/)
+
 
 **Uwaga:** W pliku _README.md_ w repo należy wpisać wszystkich autorów aplikacji.
