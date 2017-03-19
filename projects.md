@@ -68,7 +68,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 2 (12:15, l. 25)
 
 13. [Adler, Patryk](https://github.com/adlerpoland/mojeasi) 21.02 28.02 14:03
-15. [Cwilik, Dawid](https://github.com/jodanpotasu/CrudRails) 21.02 14:03
+15. [Cwilik, Dawid](https://github.com/jodanpotasu/CrudRails). [NoteManager](https://shielded-temple-90073.herokuapp.com) 21.02 14:03
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com) 07.03
 19. [Kaczmarz, Tomasz](https://github.com/tkaczmarz/asi). [Salon samochodowy](https://shielded-tundra-94334.herokuapp.com) 21.02
 20. [Kawa, Piotr](https://github.com/Pkawa/pinterest-clone). [Pinterest](https://myownpinterest.herokuapp.com/) 21.02
