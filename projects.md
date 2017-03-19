@@ -73,7 +73,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 19. [Kaczmarz, Tomasz](https://github.com/tkaczmarz/asi). [Salon samochodowy](https://shielded-tundra-94334.herokuapp.com) 21.02
 20. [Kawa, Piotr](https://github.com/Pkawa/pinterest-clone). [Pinterest](https://myownpinterest.herokuapp.com/) 21.02
 21. [Kicki, Maksymilian](https://github.com/mkicki/Herbaciarnia). [Herbaciarnia](https://herbaciarnia.herokuapp.com) 21.02 28.02 07.03 14:03
-53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks). [Frameworks] (https://asi-frameworks.herokuapp.com/)
+53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/)
 23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/). [Getting-Started](https://github.com/ozh204/Getting-Started)
 24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/) 14:03
 25. [Onych, Aleksandra](https://github.com/aonych/ruby_filmy). [Filmy animowane](https://quiet-everglades-56380.herokuapp.com/) 21.02 28.02 07.03
