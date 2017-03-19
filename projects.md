@@ -126,7 +126,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 63. Ziętarski, Michał
 
 
-## Projekty zespołowe (egzamin = średnia z zaliczenia i projektu na egzamin)
+## Projekty zespołowe (egzamin = średnia z zaliczenia i projektu zespołowego)
 
 Pull request według schematu:
 ```
