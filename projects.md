@@ -119,7 +119,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 14. Banaszek, Dawid 21.02 28.02 14.03
 40. Boncler, Jakub 21.02 28.02
 17. Gniazdowski, Kamil 28.02 07.03
-45. Lewandowski, Rafał 21.02 28.02 07.03
+45. [Lewandowski, Rafał](https://github.com/alejafiem/asi/tree/master/music). [Songs](http://songsrails.herokuapp.com/) 21.02 28.02 07.03
 63. Sadowski, Łukasz 07.03 14.03
 36. Walendzewicz, Daniel 21.02 28.02 07.03 14.03
 39. Zawodny, Szymon 21.02 28.02 07.03 14.03
