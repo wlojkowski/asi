@@ -51,7 +51,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 2. [Gonera, Grzegorz](https://bitbucket.org/ArmaCoder/gdg). [Edytor poziomów w grze](https://godizzygo.herokuapp.com/) 07.03
 3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
 4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI). [Heroku](https://stark-reaches-64952.herokuapp.com/) 14.03
-52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL) 21.02
+52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL). [Piłki](https://nameless-hamlet-16520.herokuapp.com/) 21.02
 5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1). [Blog](https://blogrubydaria.herokuapp.com)
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-Battleships). [Battleships](https://asibattleships.herokuapp.com) 21.02
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02 14.03
