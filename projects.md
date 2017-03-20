@@ -57,7 +57,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02 14.03
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp). [Quotes](https://quotesapprails.herokuapp.com/)
 56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad). [Notepad](https://rornotepad.herokuapp.com/)21.02 07.03 14.03
-8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi) [Heroku Blog](https://ruby-asi.herokuapp.com/) 21.02 28.02
+8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi). [Heroku Blog](https://ruby-asi.herokuapp.com/) 21.02 28.02
 58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 14.03
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI_lab) 28.02 07.03 14.03
 10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions). [Champions](https://champions-lol.herokuapp.com/)
@@ -96,9 +96,10 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi) 14.03
 41. [Gałaszewska, Martyna](https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/) 14.03
 42. [Gawin, Mateusz](https://github.com/matgawin/projekt_asi) 21.02 28.02 07.03 14.03
-43. [Kalinowski, Damian](https://github.com/lafreak/payments_heroku). [Payments App](ugpayments.herokuapp.com) 21.02 28.02 07.03 14.03
+43. [Kalinowski, Damian](https://github.com/lafreak/payments_heroku). [Payments App](https://payments.herokuapp.com) 21.02 28.02 07.03 14.03
 44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03
+45. [Lewandowski, Rafał](https://github.com/alejafiem/asi/tree/master/music). [Songs](http://songsrails.herokuapp.com/) 21.02 28.02 07.03
 54. [Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/) 21.02 07.03 14.03
 46. [Lisiecki, Rafał](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](https://ruby1naug.herokuapp.com/) 21.02 28.02
 57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02 07.03 14.03
@@ -106,7 +107,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 59. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie) 07.03
 60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/)
 48. [Szałwicki, Robert](https://github.com/Pentium320/asi-projekt). 21.02 28.02 14.03
-62. [Żołądek, Damian](https://github.com/damian024/rails) [Flats Catalog](https://flatcatalog.herokuapp.com/) 21.02 07.03 14.03
+62. [Żołądek, Damian](https://github.com/damian024/rails). [Flats Catalog](https://flatcatalog.herokuapp.com/) 21.02 07.03 14.03
 
 
 ### Grupa ∞
@@ -119,7 +120,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 14. Banaszek, Dawid 21.02 28.02 14.03
 40. Boncler, Jakub 21.02 28.02
 17. Gniazdowski, Kamil 28.02 07.03
-45. [Lewandowski, Rafał](https://github.com/alejafiem/asi/tree/master/music). [Songs](http://songsrails.herokuapp.com/) 21.02 28.02 07.03
 63. Sadowski, Łukasz 07.03 14.03
 36. Walendzewicz, Daniel 21.02 28.02 07.03 14.03
 39. Zawodny, Szymon 21.02 28.02 07.03 14.03
