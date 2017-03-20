@@ -96,7 +96,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi) 14.03
 41. [Gałaszewska, Martyna](https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/) 14.03
 42. [Gawin, Mateusz](https://github.com/matgawin/projekt_asi) 21.02 28.02 07.03 14.03
-43. [Kalinowski, Damian](https://github.com/lafreak/payments). [Payments App](http://bangokal.com:3000) 21.02 28.02 07.03 14.03
+43. [Kalinowski, Damian](https://github.com/lafreak/payments_heroku). [Payments App](ugpayments.herokuapp.com) 21.02 28.02 07.03 14.03
 44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
 22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03
 54. [Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/) 21.02 07.03 14.03
