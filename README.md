@@ -1,6 +1,14 @@
 ## Architektura serwisów internetowych, 2016/17
 
-Terminy rozliczenia się z projektów:
+### Wykłady
+
+|    |    |
+|----|----|
+| 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku (S. Tuszyński) |
+| 21.02 | Programowanie funkcyjne w Ruby (O. Szrajer) |
+| 28.03 | Dokku - własny, darmowy PaaS z obsługą Let's Encrypt (S. Tuszyński) |
+
+# Terminy oddawania projektów
 
 | projekt    | MVC     |    deadline |
 |------------|---------|-------------|
@@ -19,14 +27,7 @@ w pliku [projects.md](projects.md).
 Repozytorium z projektami należy przygotować wzorując się na
 tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
-
-### Wykłady
-
-|    |    |
-|----|----|
-| 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku (S. Tuszyński) |
-| 21.02 | Programowanie funkcyjne w Ruby (O. Szrajer) |
-| 28.03 | Dokku - własny, darmowy PaaS z obsługą Let's Encrypt (S. Tuszyński) |
+----
 
 1. Aplikacja CRUD:
   - [repozytorium](https://github.com/rails4/my_gists_5.0), [heroku](https://gists5.herokuapp.com)
