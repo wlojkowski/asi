@@ -24,9 +24,9 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 |    |    |
 |----|----|
-| 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku |
-| 21.02 | Programowanie funkcyjne w Ruby (Oskar Szrajer) |
-| 28.02 | Wdrażanie aplikacji RoR |
+| 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku (S. Tuszyński) |
+| 21.02 | Programowanie funkcyjne w Ruby (O. Szrajer) |
+| 28.03 | Dokku - własny, darmowy PaaS z obsługą Let's Encrypt (S. Tuszyński) |
 
 1. Aplikacja CRUD:
   - [repozytorium](https://github.com/rails4/my_gists_5.0), [heroku](https://gists5.herokuapp.com)
