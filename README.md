@@ -6,7 +6,7 @@
 |----|----|
 | 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku (S. Tuszyński) |
 | 21.02 | Programowanie funkcyjne w Ruby (O. Szrajer) |
-| 28.03 | Dokku - własny, darmowy PaaS z obsługą Let's Encrypt (S. Tuszyński) |
+| **28.03** | Dokku - własny, darmowy PaaS z obsługą Let's Encrypt (S. Tuszyński) |
 
 # Terminy oddawania projektów
 
