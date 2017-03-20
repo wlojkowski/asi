@@ -62,7 +62,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI1). [Computer Shop](https://asii1.herokuapp.com/) 28.02 07.03 14.03    
 10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions). [Champions](https://champions-lol.herokuapp.com/)
 11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02 14.03
-12. [Sasin, Jacek](https://github.com/jsasin/asi_lab) 28.02
+12. [Sasin, Jacek](https://github.com/jsasin/asiZaliczenie). [Weapons](https://asilabzaliczenie.herokuapp.com/users/sign_in) 28.02
 
 
 ### Grupa 2 (12:15, l. 25)
