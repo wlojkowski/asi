@@ -46,7 +46,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ### Grupa 1 (10:30, l. 25)
 
 1. [Byszof, Michał](https://github.com/nietrwalyenol/asi) 21.02 28.02
-49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI). [MovieApp](https://serene-savannah-45196.herokuapp.com)28.02 07.03 14.03
+49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI). [MovieApp](https://serene-savannah-45196.herokuapp.com) 28.02 07.03 14.03
 16. [Formela, Bartosz](https://github.com/Formeister/ASI) 28.02
 2. [Gonera, Grzegorz](https://bitbucket.org/ArmaCoder/gdg). [Edytor poziomów w grze](https://godizzygo.herokuapp.com/) 07.03
 3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
@@ -56,7 +56,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-Battleships). [Battleships](https://asibattleships.herokuapp.com) 21.02
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02 14.03
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp). [Quotes](https://quotesapprails.herokuapp.com/)
-56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad). [Notepad](https://rornotepad.herokuapp.com/)21.02 07.03 14.03
+56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad). [Notepad](https://rornotepad.herokuapp.com/) 21.02 07.03 14.03
 8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi). [Heroku Blog](https://ruby-asi.herokuapp.com/) 21.02 28.02
 58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 14.03
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI1). [Computer Shop](https://asii1.herokuapp.com/) 28.02 07.03 14.03    
@@ -77,7 +77,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/). [Getting-Started](https://github.com/ozh204/Getting-Started)
 24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/) 14.03
 25. [Onych, Aleksandra](https://github.com/aonych/ruby_filmy). [Filmy animowane](https://quiet-everglades-56380.herokuapp.com/) 21.02 28.02 07.03
-26. [Piecuch, Mikołaj](https://github.com/mikolajpiecuch/asi) [Wspólne podróże](https://tripsug.herokuapp.com/) 07.03 14.03
+26. [Piecuch, Mikołaj](https://github.com/mikolajpiecuch/asi). [Wspólne podróże](https://tripsug.herokuapp.com/) 07.03 14.03
 27. [Podleśny, Julian](https://github.com/jpodlesny/ruby_projekt). [Leki](https://intense-brook-60837.herokuapp.com/) 21.02 28.02 07.03
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. [Półgęsek, Arkadiusz](https://github.com/apolgesek/asiprojekt). [Katalog stron WWW](https://serene-dusk-56530.herokuapp.com/) 21.02 28.02 07.03
