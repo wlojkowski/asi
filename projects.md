@@ -89,6 +89,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 35. [Tejszerska, Aleksandra](https://github.com/atejszerska/ruby-asi). [Tramwaje](https://tramwaje-gdansk.herokuapp.com/) 28.02 07.03
 37. [Wieliczko, Daria](https://github.com/sherrywolf/ruby_crud). [BookStorage](https://sheltered-depths-28406.herokuapp.com/) 07.03
 38. [Wiśniewski, Jakub](https://github.com/jawisniewski//RubyOnR). [Firma transportowa](http://firmatransportowa.herokuapp.com/) 28.02 07.03
+17. [Gniazdowski, Kamil](https://github.com/kgniazdowski/mywallet) 28.02 07.03
 
 
 ### Grupa 3 (15:30, l. 25)
@@ -119,7 +120,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 14. Banaszek, Dawid 21.02 28.02 14.03
 40. Boncler, Jakub 21.02 28.02
-17. Gniazdowski, Kamil 28.02 07.03
 63. Sadowski, Łukasz 07.03 14.03
 36. Walendzewicz, Daniel 21.02 28.02 07.03 14.03
 39. Zawodny, Szymon 21.02 28.02 07.03 14.03
