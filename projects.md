@@ -109,13 +109,12 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/)
 48. [Szałwicki, Robert](https://github.com/Pentium320/asi-projekt). 21.02 28.02 14.03
 62. [Żołądek, Damian](https://github.com/damian024/rails). [Flats Catalog](https://flatcatalog.herokuapp.com/) 21.02 07.03 14.03
+61. [Trubisz, Krystian](https://bitbucket.org/ktrubisz/asikrystiantrubisz). [Home Banking](http://bankaccountug.herokuapp.com/)
 
 
 ### Grupa ∞
 
 50. Dargacz, Karol 21.02 28.02
-61. Trubisz, Krystian 21.02 28.02
-
 ---
 
 14. Banaszek, Dawid 21.02 28.02 14.03
