@@ -58,7 +58,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp). [Quotes](https://quotesapprails.herokuapp.com/)
 56. [Majewski, Sebastian](https://github.com/SebastianMajewski/RoR-Notepad). [Notepad](https://rornotepad.herokuapp.com/) 21.02 07.03 14.03
 8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi). [Heroku Blog](https://ruby-asi.herokuapp.com/) 21.02 28.02
-58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](/) 21.02 14.03
+58. [Mikucka, Julianna](https://github.com/LadyJuleczka/Monsters). [Monsters](https://morning-chamber-23650.herokuapp.com/) 21.02 14.03
 9. [Motławski, Łukasz](https://github.com/lmotlawski/ASI1). [Computer Shop](https://asii1.herokuapp.com/) 28.02 07.03 14.03    
 10. [Narożnik, Kacper](https://github.com/knaroznik/Rails_LoLChampions). [Champions](https://champions-lol.herokuapp.com/)
 11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02 14.03
