@@ -50,7 +50,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 16. [Formela, Bartosz](https://github.com/Formeister/ASI). [ZdarzyłoSięDzisiaj](https://zdarzylosiedzisiaj.herokuapp.com/) 28.02
 2. [Gonera, Grzegorz](https://bitbucket.org/ArmaCoder/gdg). [Edytor poziomów w grze](https://godizzygo.herokuapp.com/) 07.03
 3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
-4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI). [Heroku](https://stark-reaches-64952.herokuapp.com/) 14.03
 52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL). [Piłki](https://nameless-hamlet-16520.herokuapp.com/) 21.02
 5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1). [Blog](https://blogrubydaria.herokuapp.com)
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-Battleships). [Battleships](https://asibattleships.herokuapp.com) 21.02
@@ -64,6 +63,9 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 11. [Osowska, Aleksandra](https://github.com/aleksandrao/Asi.git) 21.02 14.03
 12. [Sasin, Jacek](https://github.com/jsasin/asiZaliczenie). [Weapons](https://asilabzaliczenie.herokuapp.com/users/sign_in) 28.02
 
+<!--
+4. [Jędzierowska, Magdalena](https://github.com/MagdalenaJedzierowska/ASI). [Heroku](https://stark-reaches-64952.herokuapp.com/) 14.03
+-->
 
 ### Grupa 2 (12:15, l. 25)
 
@@ -107,15 +109,18 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
 59. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie) 07.03 28.03
 60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/)
-48. [Szałwicki, Robert](https://github.com/Pentium320/asi-projekt). 21.02 28.02 14.03 28.03
 62. [Żołądek, Damian](https://github.com/damian024/rails). [Flats Catalog](https://flatcatalog.herokuapp.com/) 21.02 07.03 14.03 28.03
+
+Nie ma na liście w PP.
+
+48. [Szałwicki, Robert](https://github.com/Pentium320/asi-projekt). 21.02 28.02 14.03 28.03
 61. [Trubisz, Krystian](https://bitbucket.org/ktrubisz/asikrystiantrubisz). [Home Banking](http://bankaccountug.herokuapp.com/)
 
 
+<!--
 ### Grupa ∞
 
 50. Dargacz, Karol 21.02 28.02
----
 
 14. Banaszek, Dawid 21.02 28.02 14.03
 40. Boncler, Jakub 21.02 28.02
@@ -123,7 +128,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 36. Walendzewicz, Daniel 21.02 28.02 07.03 14.03
 39. Zawodny, Szymon 21.02 28.02 07.03 14.03
 63. Ziętarski, Michał
-
+-->
 
 ## Projekty zespołowe (egzamin = średnia z zaliczenia i projektu zespołowego)
 
