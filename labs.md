@@ -1,7 +1,7 @@
 ### Grupa 1 (10:30, l. 25)
 
 49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI). [MovieApp](https://serene-savannah-45196.herokuapp.com) 28.02 07.03 14.03
-16. [Formela, Bartosz](https://github.com/Formeister/ASI). [ZdarzyłoSięDzisiaj](https://zdarzylosiedzisiaj.herokuapp.com/) 28.02 04.04
+16. [Formela, Bartosz](https://github.com/Formeister/ASI). [ZdarzyłoSięDzisiaj](https://zdarzylosiedzisiaj.herokuapp.com/) 28.02
 2. [Gonera, Grzegorz](https://bitbucket.org/ArmaCoder/gdg). [Edytor poziomów w grze](https://godizzygo.herokuapp.com/) 07.03 04.04
 3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my) 07.03
 52. [Gołuński, Radosław](https://github.com/RGolun/ASI_ZAL). [Piłki](https://nameless-hamlet-16520.herokuapp.com/) 21.02
