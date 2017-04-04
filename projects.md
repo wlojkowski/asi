@@ -138,6 +138,6 @@ Pull request według schematu:
 ```
 
 1. [Patryk Pobłocki](https://github.com/ppoblocki/egzaminRails). [PinTab!](https://fast-shore-79390.herokuapp.com/)
-
+2. [Rafał Lisiecki](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](http://ec2-34-208-194-252.us-west-2.compute.amazonaws.com/)
 
 **Uwaga:** W pliku _README.md_ w repo należy wpisać wszystkich autorów aplikacji.
