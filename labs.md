@@ -50,19 +50,19 @@
 
 ### Grupa 3 (15:30, l. 25)
 
-51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi) 14.03 28.03
-41. [Gałaszewska, Martyna](https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/) 14.03
-42. [Gawin, Mateusz](https://github.com/matgawin/projekt_asi) 21.02 28.02 07.03 14.03
-43. [Kalinowski, Damian](https://github.com/lafreak/payments_heroku). [Payments App](https://ugpayments.herokuapp.com) 21.02 28.02 07.03 14.03 28.03
-44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/)
-22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03 28.03
-45. [Lewandowski, Rafał](https://github.com/alejafiem/asi/tree/master/music). [Songs](http://songsrails.herokuapp.com/) 21.02 28.02 07.03 28.03
+51. [Dziubiński, Maciej 21.02 28.02](https://github.com/mdziub/asi) 14.03 28.03 04.04
+41. [Gałaszewska, Martyna](https://github.com/MGalaszewska/asi-zal). [Flicks](https://damp-escarpment-69384.herokuapp.com/) 14.03 04.04
+42. [Gawin, Mateusz](https://github.com/matgawin/projekt_asi) 21.02 28.02 07.03 14.03 04.04
+43. [Kalinowski, Damian](https://github.com/lafreak/payments_heroku). [Payments App](https://ugpayments.herokuapp.com) 21.02 28.02 07.03 14.03 28.03 04.04
+44. [Kassjański, Michał](https://github.com/mkassjanski/asi-lab/). [StudentLog](https://infinite-tor-53957.herokuapp.com/) 04.04
+22. [Knitter, Mateusz](https://github.com/supperbull/RubySEM6). [Antywirus](http://supperbull.herokuapp.com/) 21.02 07.03 28.03 04.04
+45. [Lewandowski, Rafał](https://github.com/alejafiem/asi/tree/master/music). [Songs](http://songsrails.herokuapp.com/) 21.02 28.02 07.03 28.03 04.04
 54. [Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/) 21.02 07.03 14.03 28.03
 46. [Lisiecki, Rafał](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](https://ruby1naug.herokuapp.com/) 21.02 28.02
-57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02 07.03 14.03 28.03
+57. [Mielcarek, Dominik](https://github.com/ThaFog/ArchitekturaSerwisow) 21.02 07.03 14.03 28.03 04.04
 47. [Pobłocki, Patryk](https://github.com/ppoblocki/projekt1_rails). [Star Wars Database](https://radiant-springs-24519.herokuapp.com/)
 59. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie) 07.03 28.03
-60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/) +
+60. [Rombel, Dawid](https://github.com/drombel/project-ruby). [Lista herbat](https://enigmatic-plains-17766.herokuapp.com/)
 62. [Żołądek, Damian](https://github.com/damian024/rails). [Flats Catalog](https://flatcatalog.herokuapp.com/) 21.02 07.03 14.03 28.03
 
 Nie ma na liście w PP.
