@@ -33,7 +33,7 @@
 23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/). [Getting-Started](https://github.com/ozh204/Getting-Started)
 24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/) 14.03
 25. [Onych, Aleksandra](https://github.com/aonych/ruby_filmy). [Filmy animowane](https://quiet-everglades-56380.herokuapp.com/) 21.02 28.02 07.03
-26. [Piecuch, Mikołaj](https://github.com/mikolajpiecuch/asi). [Wspólne podróże](https://tripsug.herokuapp.com/) 07.03 14.03
+26. [Piecuch, Mikołaj](https://github.com/mikolajpiecuch/asi). [Wspólne podróże](https://tripsug.herokuapp.com/) 07.03 14.03 +
 27. [Podleśny, Julian](https://github.com/jpodlesny/ruby_projekt). [Leki](https://intense-brook-60837.herokuapp.com/) 21.02 28.02 07.03
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. [Półgęsek, Arkadiusz](https://github.com/apolgesek/asiprojekt). [Katalog stron WWW](https://serene-dusk-56530.herokuapp.com/) 21.02 28.02 07.03
@@ -45,7 +45,7 @@
 35. [Tejszerska, Aleksandra](https://github.com/atejszerska/ruby-asi). [Tramwaje](https://tramwaje-gdansk.herokuapp.com/) 28.02 07.03
 37. [Wieliczko, Daria](https://github.com/sherrywolf/ruby_crud). [BookStorage](https://sheltered-depths-28406.herokuapp.com/) 07.03
 38. [Wiśniewski, Jakub](https://github.com/jawisniewski//RubyOnR). [Firma transportowa](http://firmatransportowa.herokuapp.com/) 28.02 07.03
-17. [Gniazdowski, Kamil](https://github.com/kgniazdowski/mywallet) 28.02 07.03
+17. [Gniazdowski, Kamil](https://github.com/kgniazdowski/mywallet) 28.02 07.03 +
 
 
 ### Grupa 3 (15:30, l. 25)
