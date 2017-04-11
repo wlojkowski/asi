@@ -48,9 +48,12 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 Lab. 25, grupa 1. – 10:30, 2. – 12:15, 3. – 15:30.
 
 
-## Projekty zespołowe (egzamin = średnia z zaliczenia i projektu zespołowego)
+## Projekty zespołowe (egzamin = średnia z zaliczenia i projektu)
 
-Pull request według schematu:
+W pliku _README.md_ z repozytorium należy wpisać wszystkich autorów aplikacji
+i następnie wykonać pull request, który dopisze linijkę tekstu do tego pliku
+utworzoną według poniższego schematu:
+
 ```
 1. [Nazwa zespołu](link do repo z kodem applikacji). [Nazwa aplikacji](link do wdrożonej aplikacji) (gdzie wdrożono)
 ```
@@ -60,4 +63,4 @@ Pull request według schematu:
 1. [OJA](https://github.com/lic-planer/ruby_zespolowy). [Filmy animowane](https://shrouded-ocean-49748.herokuapp.com/) (Heroku)
 1. [Aleksander Stefański](https://github.com/astefanski1/WhatGames). [WhatGames](https://whatgames.herokuapp.com/games) (Heroku)
 1. [Wojciech Łojkowski i Kacper Narożnik](https://github.com/wlojkowski/AlbumWebApp)
-**Uwaga:** W pliku _README.md_ w repo należy wpisać wszystkich autorów aplikacji.
+
