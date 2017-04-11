@@ -23,6 +23,7 @@ gem 'devise', :github => 'plataformatec/devise'
 Można tez zainstalować (i użyć) wersji _prerelease_:
 ```sh
 gem install carrierwave --pre # jest już wersja 1.0.0
+gem install cloudinary # swoje obrazki http://cloudinary.com/
 ```
 
 ## Projekty indywidualne (zaliczenie)
