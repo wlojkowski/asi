@@ -55,7 +55,7 @@ i następnie wykonać pull request, który dopisze linijkę tekstu do tego pliku
 utworzoną według poniższego schematu:
 
 ```
-1. [Nazwa zespołu](link do repo z kodem applikacji). [Nazwa aplikacji](link do wdrożonej aplikacji) (gdzie wdrożono)
+1. [Nazwa zespołu](link do repo z kodem). [Nazwa aplikacji](link do wdrożonej aplikacji) (gdzie wdrożono)
 ```
 
 1. [Patryk Pobłocki](https://github.com/ppoblocki/egzaminRails). [PinTab!](https://fast-shore-79390.herokuapp.com/) (Heroku, AWS)
