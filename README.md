@@ -17,7 +17,7 @@
 | projekt    | MVC     |    deadline |
 |------------|---------|-------------|
 | zaliczenie | 3 × 1   | 19.03.2017  |
-| egzamin    | 3 × 3   | 21.05.2017  |
+| egzamin    | 3 × 3   | **14.05.2017** (NEW! zmiana terminu) |
 
 Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.3**
 i Ruby on Rails w wersji co najmniej **5.0.0**.
