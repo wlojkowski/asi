@@ -65,4 +65,4 @@ utworzoną według poniższego schematu:
 1. [Aleksander Stefański](https://github.com/astefanski1/WhatGames). [WhatGames](https://whatgames.herokuapp.com/games) (Heroku)
 1. [Wojciech Łojkowski i Kacper Narożnik](https://github.com/wlojkowski/AlbumWebApp)
 1. [Ciamciaramcia](https://github.com/atejszerska/ruby-asi-zespolowy). [Tramwaje Gdańsk](https://tramwaje-gdansk.herokuapp.com) (Heroku) 
-
+1. [Dawid Rombel](https://github.com/drombel/project-ruby). [Lista herbart upgraded](https://lista-herbat.herokuapp.com/) (Heroku) 
