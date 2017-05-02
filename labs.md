@@ -40,7 +40,7 @@
 30. [Pyszyńska, Martyna](https://github.com/Matyldzia22/arch_serwisow). [Architecture](https://stark-tor-96562.herokuapp.com/) 21.02 14.03
 31. [Sędek, Szymon](https://github.com/GSun12/ASI). [App Store](https://hidden-gorge-22591.herokuapp.com/) 28.02 07.03
 32. [Stefański, Aleksander](https://github.com/astefanski1/MyGamesRubyApp). [GamesLibrary](https://mygamesrubyapp.herokuapp.com/) 07.03
-33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka książek](https://biblioteka-ksiazek.herokuapp.com/)
+33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/)
 34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi) 07.03
 35. [Tejszerska, Aleksandra](https://github.com/atejszerska/ruby-asi). [Tramwaje](https://tramwaje-gdansk.herokuapp.com/) 28.02 07.03
 37. [Wieliczko, Daria](https://github.com/sherrywolf/ruby_crud). [BookStorage](https://sheltered-depths-28406.herokuapp.com/) 07.03
