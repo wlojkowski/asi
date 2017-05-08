@@ -1,20 +1,17 @@
 ## Architektura serwisów internetowych, 2016/17
 
+
 ### Wykłady
 
-|    |    |
-|----|----|
-| 14.02 | Info o MVC, podstawy RoR, aplikacja _My_Gists_, Heroku (S. Tuszyński) |
-| 21.02 | Programowanie funkcyjne w Ruby (O. Szrajer) |
-| 28.03 | [Dokku - własny, darmowy PaaS z obsługą Let's Encrypt](https://blog.ragnarson.com/2017/03/28/your-own-free-paas-with-dokku-and-letsencrypt.html) (S. Tuszyński) |
-| **25.04** | **Phoenix – nowoczesny framework webowy (O. Szrajer)** |
+* [JSON API w przykładach](https://github.com/rails4/jsonapi_borrowers_5.0)
+
 
 # Terminy oddawania projektów
 
 | projekt    | MVC     |    deadline |
 |------------|---------|-------------|
 | zaliczenie | 3 × 1   | 19.03.2017  |
-| egzamin    | 3 × 3   | 21.05.2017  |
+| egzamin    | 3 × 3   | **14.05.2017** (NEW! zmiana terminu) |
 
 Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.3**
 i Ruby on Rails w wersji co najmniej **5.0.0**.
