@@ -66,7 +66,7 @@ utworzoną według poniższego schematu:
 1. [Wojciech Łojkowski i Kacper Narożnik](https://github.com/wlojkowski/AlbumWebApp)
 1. [Ciamciaramcia](https://github.com/atejszerska/ruby-asi-zespolowy). [Tramwaje Gdańsk](https://tramwaje-gdansk.herokuapp.com) (Heroku)
 1. [Dawid Rombel](https://github.com/drombel/project-ruby). [Lista herbart upgraded](https://lista-herbat.herokuapp.com/) (Heroku)
-1. [Patryk Adler & Radosław Gołuński & Tomek Cabaj](https://github.com/adlerpoland/mojeasi). [Photo Gallery](https://protected-ocean-44249.herokuapp.com/photos) (Heroku)
+1. [Patryk Adler & Radosław Gołuński & Tomek Cabaj](https://github.com/adlerpoland/mojeasi). [Photo Gallery](https://protected-ocean-44249.herokuapp.com/photos) (Heroku, Cloudinary)
 1. [Daria Kotowicz](https://github.com/dkotowicz/ruby_projekt2.git). [Blog]
 1. [GL&HF](https://github.com/mkassjanski/asi-egzamin). [Flicks 2.0](https://flicks2.herokuapp.com/) (Heroku, AWS)
 1. [Dawid Cwilik & Martyna Pyszyńska & Daria Wieliczko](https://github.com/Ruby-team/ExamProject).
